@@ -1,0 +1,26 @@
+#set("content") {
+	<div class="container-fluid">
+		<div class="row justify-content-center">
+			<div class="col"></div>
+			<div class="col-8">
+				<p class="text-justify">
+					¡Hola! Bienvenidos. Utilizando esta web puedes prepararte para la prueba de conocimientos constitucionales y socioculturales de España (<a href="https://examenes.cervantes.es/es/ccse/examen">CCSE</a>). Esta prueba consiste en 25 preguntas, que deben responderse en un período de 45 minutos.
+					La prueba se divide en 5 temas:
+					<ol>
+						<li>Conocimiento del Gobierno, poderes e instituciones del Estado, leyes fundamentales y mecanismos de participación ciudadana.</li>
+						<li>Conocimiento sobre los deberes y derechos que comporta la nacionalidad española .</li>
+						<li>Conocimiento de la organización territorial y geografía física y política de España.</li>
+						<li>Conocimiento de las tradiciones, aspectos culturales y hechos históricos españoles relevantes.</li>
+						<li>Conocimiento de distintos aspectos de la vida cotidiana y comportamiento en sociedad. Conocimiento de trámites administrativos en España.</li>
+					</ol>
+					Tienes más material de estudio disponible <a href="https://examenes.cervantes.es/es/ccse/preparar-prueba">aquí</a>.
+				</p>
+			</div>
+			<div class="col"></div>
+		</div>
+		<div class="row justify-content-center">
+			<a class="btn btn-primary" href="/web/prueba" role="button">¡A por ello!</a>
+		</div>
+	</div>
+}
+#embed("base")

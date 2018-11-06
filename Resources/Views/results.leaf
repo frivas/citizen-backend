@@ -1,0 +1,32 @@
+#set("content") {
+	#if(results) {
+		#if(results.result == "Apto") {
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="alert alert-success" role="alert">
+						<h4>Enhorabuena!</h4>
+						<div class="row justify-content-center">
+							#(results.result) - #(results.score)
+						</div>
+					</div>
+				</div>
+			</div>
+		} else  {
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="alert alert-danger" role="alert">
+						<h4>Lo siento</h4>
+						<div class="row justify-content-center">
+							#(results.result) - #(results.score)
+						</div>
+					</div>
+				</div>
+			</div>
+		}
+	} else {
+		<div class="alert alert-danger" role="alert">
+			No se han encontrado datos
+		</div>
+	}
+}
+#embed("base")

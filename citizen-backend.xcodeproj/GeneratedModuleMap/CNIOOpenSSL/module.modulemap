@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/fran/Downloads/TestNacionalidadiOS/citizen-backend/.build/checkouts/swift-nio-ssl.git--924812508430372329/Sources/CNIOOpenSSL/include"
+    export *
+}

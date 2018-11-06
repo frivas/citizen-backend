@@ -1,11 +1,12 @@
 import Routing
 import Vapor
+import Foundation
+import Leaf
 
-/// Register your application's routes here.
-///
-/// [Learn More →](https://docs.vapor.codes/3.0/getting-started/structure/#routesswift)
 public func routes(_ router: Router) throws {
-    router.get("hello") { req in
-        return "Hello, world!"
-    }
+	let testController = TestController()
+	try router.register(collection: testController)
+	
+	let webTestController = WebTestController()
+	try router.register(collection: webTestController)
 }

@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/fran/Downloads/TestNacionalidadiOS/citizen-backend/.build/checkouts/crypto.git-1251779259747154388/Sources/CCryptoOpenSSL/include"
+    export *
+}

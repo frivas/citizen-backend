@@ -1,0 +1,59 @@
+#set("content") {
+	<div class="container">
+		<div class="row justify-content-end">
+			<h1><span class="badge badge-secondary">
+				<div id="clockdiv">
+					<div><span class="minutes"></span>:<span class="seconds"></span></div>
+				</div>
+			</span>
+		</h1>
+	</div>
+	</div>
+	<form method="post" action="/web/checkTest" class="form-group" id="testForm">
+		<div class="container mt-3">
+			#for(question in questions) {
+			<table class="table table-bordered table-hover table-sm" id="#(question.id)">
+				<thead class="thead-light">
+					<tr>
+						<th>
+							#(question.id) - #(question.questionText)
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class="align-middle">
+							<label class="btn btn-outline-info">
+								<input type="radio" name="option#(question.id)" id="option#(question.id)a" autocomplete="off" value="1"> a) #(question.options.a)
+							</label>
+						</td>
+					</tr>
+					<tr>
+						<td class="align-middle">
+							<label class="btn btn-outline-info">
+								<input type="radio" name="option#(question.id)" id="option#(question.id)b" autocomplete="off" value="2"> b) #(question.options.b)
+							</label>
+						</td>
+					</tr>
+					#if(question.options.c) {
+					<tr>
+						<td class="align-middle">
+							<label class="btn btn-outline-info">
+								<input type="radio" name="option#(question.id)" id="option#(question.id)c" autocomplete="off" value="3"> c) #(question.options.c)
+							</label>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	}
+	</div>
+	<div class="container">
+		<div class="row justify-content-end">
+			<button type="submit" class="btn btn-primary">Enviar</button>
+		</div>
+	</div>
+	</form>
+	<script src="/scripts/clock.js"></script>
+}
+#embed("base")
