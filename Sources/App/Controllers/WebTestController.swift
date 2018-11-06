@@ -9,7 +9,7 @@ struct WebTestController: RouteCollection {
 	
 	func boot(router: Router) throws {
 		let webRoutes = router.grouped("web")
-		webRoutes.get("/", use: getHome)
+		router.get("/", use: getHome)
 		webRoutes.get("prueba", use: getTest)
 		webRoutes.post("checkTest", use: checkTest)
 	}
