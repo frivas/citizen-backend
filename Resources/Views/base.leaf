@@ -16,7 +16,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item active"><a href="/" class="nav-link">Home</a></li>
-				<li class="nav-item active"><a href="/web/prueba" class="nav-link">Test</a></li>
+				<li class="nav-item active"><a href="/web/prueba" class="nav-link">Prueba</a></li>
 			</ul>
 		</div>
 	</nav>
