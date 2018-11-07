@@ -30,26 +30,21 @@ func generateTest() -> [QuestionBank.Question] {
 	let questions = loadFile()
 	var generatedTest = [QuestionBank.Question]()
 	
-	for _ in 1...10{
-		questionsTopic.append(Int.random(in: 1001...1120))
+	questionsTopic += getRandomQuestionNumbers(numberOfQuestionsPerTopic: 10, questionsRanges: Array(1001...1120))
+	
+	questionsTopic += getRandomQuestionNumbers(numberOfQuestionsPerTopic: 3, questionsRanges: Array(2001...2036))
+
+	questionsTopic += getRandomQuestionNumbers(numberOfQuestionsPerTopic: 2, questionsRanges: Array(3001...3024))
+
+	questionsTopic += getRandomQuestionNumbers(numberOfQuestionsPerTopic: 3, questionsRanges: Array(4001...4036))
+
+	questionsTopic += getRandomQuestionNumbers(numberOfQuestionsPerTopic: 7, questionsRanges: Array(5001...5084))
+	
+	for questionNumber in questionsTopic {
+		generatedTest.append(questions.filter {($0.id as NSString).integerValue == questionNumber}[0])
 	}
-	for _ in 1...3{
-		questionsTopic.append(Int.random(in: 2001...2036))
-	}
-	for _ in 1...2{
-		questionsTopic.append(Int.random(in: 3001...3024))
-	}
-	for _ in 1...3{
-		questionsTopic.append(Int.random(in: 4001...4036))
-	}
-	for _ in 1...7{
-		questionsTopic.append(Int.random(in: 5001...5084))
-	}
-	for item in questions {
-		if questionsTopic.contains((item.id as NSString).integerValue) {
-			generatedTest.append(item)
-		}
-	}
+	
+	print(generatedTest.count)
 	return generatedTest
 }
 
@@ -76,6 +71,20 @@ func getScore(answers: [String], questions: [QuestionBank.Question]) -> Score {
 	}
 }
 
+func getRandomQuestionNumbers(numberOfQuestionsPerTopic: Int, questionsRanges: [Int]) -> [Int] {
+	var resultQuestionNumbers = [Int]()
+	var tempQuestionNumbersArray = questionsRanges
+	
+	for _ in 1...numberOfQuestionsPerTopic {
+		let randomQuestionNumber = tempQuestionNumbersArray.randomElement()!
+		resultQuestionNumbers.append(randomQuestionNumber)
+		tempQuestionNumbersArray.remove(at: tempQuestionNumbersArray.firstIndex(of: randomQuestionNumber)!)
+	}
+	
+	
+	return resultQuestionNumbers
+	
+}
 struct Score: Content {
 	let result: String
 	let score: Int

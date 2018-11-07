@@ -1,5 +1,5 @@
 #set("content") {
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row justify-content-end">
 			<h1><span class="badge badge-secondary">
 				<div id="clockdiv">
@@ -10,7 +10,7 @@
 	</div>
 	</div>
 	<form method="post" action="/web/checkTest" class="form-group" id="testForm">
-		<div class="container mt-3">
+		<div class="container-fluid">
 			#for(question in questions) {
 			<table class="table table-bordered table-hover table-sm" id="#(question.id)">
 				<thead class="thead-light">
