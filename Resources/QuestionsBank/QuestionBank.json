@@ -602,7 +602,7 @@
 		},
 		{
 			"id": "1061",
-			"questionText": "Los miembros del Senadose eligen cada...",
+			"questionText": "Los miembros del Senado se eligen cada...",
 			"options": {
 				"a": "3 años.",
 				"b": "4 años.",
@@ -802,7 +802,7 @@
 		},
 		{
 			"id": "1081",
-			"questionText": "¿Cómo se llama la la policía autonómica del País Vasco?",
+			"questionText": "¿Cómo se llama la policía autonómica del País Vasco?",
 			"options": {
 				"a": "Ertzaintza.",
 				"b": "Guardia Civil.",
@@ -932,7 +932,7 @@
 		},
 		{
 			"id": "1094",
-			"questionText": "Las leyes orgánicas normativas de las comunidades y ciudades autónomas de Españase denominan...",
+			"questionText": "Las leyes orgánicas normativas de las comunidades y ciudades autónomas de España se denominan...",
 			"options": {
 				"a": "leyes de autonomía.",
 				"b": "estatutos de autonomía.",
@@ -942,7 +942,7 @@
 		},
 		{
 			"id": "1095",
-			"questionText": "La norma institucional fundamental de una comunidadautónoma es ...",
+			"questionText": "La norma institucional fundamental de una comunidad autónoma es ...",
 			"options": {
 				"a": "la Constitución española.",
 				"b": "el estatuto de autonomía.",
@@ -1238,7 +1238,7 @@
 		},
 		{
 			"id": "2005",
-			"questionText": "Se puede obligar a alguien a declarar suideología, religión o creencias.",
+			"questionText": "Se puede obligar a alguien a declarar su ideología, religión o creencias.",
 			"options": {
 				"a": "Verdadero",
 				"b": "Falso"
@@ -1956,7 +1956,7 @@
 		},
 		{
 			"id": "4020",
-			"questionText": "¿En qué fecha entró en vigor el Tratado de adhesión por el que España se integró en la Comunidad Económica Europea (hoyUnión Europea?",
+			"questionText": "¿En qué fecha entró en vigor el Tratado de adhesión por el que España se integró en la Comunidad Económica Europea (hoy Unión Europea?",
 			"options": {
 				"a": "26 de julio de 1977.",
 				"b": "El 12 de junio de 1985.",
@@ -2146,7 +2146,7 @@
 		},
 		{
 			"id": "5003",
-			"questionText": "¿A quéedad es obligatorio tener el DNI?",
+			"questionText": "¿A qué edad es obligatorio tener el DNI?",
 			"options": {
 				"a": "A los 14 años.",
 				"b": "A los 16 años.",
@@ -2208,8 +2208,8 @@
 			"id": "5009",
 			"questionText": "¿Para qué gestión es necesario cumplir el siguiente requisito: «Haber residido en España durante 10 años de forma legal, continuada e inmediatamente anterior a la solicitud»?",
 			"options": {
-				"a": "Para solicitar la",
-				"b": "Para solicitar una beca nacionalidad española. de estudios.",
+				"a": "Para solicitar una beca de estudios.",
+				"b": "Para solicitar la nacionalidad española.",
 				"c": "Para solicitar la ayuda por desempleo."
 			},
 			"answer": "a"
@@ -2248,7 +2248,7 @@
 			"id": "5013",
 			"questionText": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
 			"options": {
-				"a": "IBI (Impuesto sobreBienes Inmuebles).",
+				"a": "IBI (Impuesto sobre Bienes Inmuebles).",
 				"b": "ITV (Inspección Técnica de Vehículos).",
 				"c": "ITE (Inspección Técnica de edificios)."
 			},
@@ -2330,7 +2330,7 @@
 			"options": {
 				"a": "Usar la vivienda para actividades comerciales.",
 				"b": "Cuidar la vivienda y pagar los daños que haga.",
-				"c": "Pagar los gastos deagua, luz y gas."
+				"c": "Pagar los gastos de agua, luz y gas."
 			},
 			"answer": "a"
 		},
@@ -2456,7 +2456,7 @@
 		},
 		{
 			"id": "5034",
-			"questionText": "En España, en general, los bancos tienen unhorario de atención al público de lunes a viernes...",
+			"questionText": "En España, en general, los bancos tienen un horario de atención al público de lunes a viernes...",
 			"options": {
 				"a": "de 8:30 a 14:00 h, sin pausa.",
 				"b": "de 8:30 a 17:00 h, sin pausa.",
@@ -2598,9 +2598,9 @@
 			"id": "5048",
 			"questionText": "¿Dónde se puede encontrar el siguiente aviso: «La entrada incluye el acceso a la colección y a las exposiciones temporales coetáneas el día de la visita»?",
 			"options": {
-				"a": "En unos grandes",
+				"a": "En unos grandes almacenes.",
 				"b": "En un museo.",
-				"c": "En un banco. almacenes."
+				"c": "En un banco."
 			},
 			"answer": "b"
 		},
