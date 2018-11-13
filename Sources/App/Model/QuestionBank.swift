@@ -8,12 +8,17 @@
 import Foundation
 import Vapor
 
-struct QuestionBank: Content {
-	struct Question: Content {
+public struct QuestionBank: Content {
+	public struct Question: Content {
 		var id: String
-		var questionText: String
-		var options = [String:String]()
-		var answer: String
+		var question: String
+		var options = [Options]()
 	}
-	let questions: [Question]
+	
+	public struct Options: Content {
+		var id: String
+		var option: String
+		var isCorrect: Bool
+	}
+	public let questions: [Question]
 }

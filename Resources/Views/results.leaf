@@ -1,28 +1,20 @@
 #set("content") {
 	#if(results) {
-		#if(results.result == "Apto") {
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="alert alert-success" role="alert">
-						<h4>Enhorabuena!</h4>
-						<div class="row justify-content-center">
-							#(results.result) - #(results.score)
-						</div>
-					</div>
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class=#if(results.result == "Apto"){"alert alert-success"} else {"alert alert-danger"} role="alert">
+					<h4 class="alert-heading">#if(results.result == "Apto"){¡Enhorabuena!}else{¡Intentemos de nuevo!}</h4>
+					<p>El resultado de la prueba es: #(results.result)</p>
+					<p>#(results.answered) #if(results.answered == 1){pregunta contestada } else{preguntas contestadas}</p>
+					<p>#(results.failed) #if(results.failed == 1){respuesta incorrecta } else{respuestas incorrectas}</p>
+					#if(results.answered != 25) {
+						<p>#(results.unanswered) preguntas no contestadas</p>
+					}
+					<hr>
+					<p>#(results.score) #if(results.score == 1){respuesta correcta} else{respuestas correctas}</p>
 				</div>
 			</div>
-		} else  {
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="alert alert-danger" role="alert">
-						<h4>Lo siento</h4>
-						<div class="row justify-content-center">
-							#(results.result) - #(results.score)
-						</div>
-					</div>
-				</div>
-			</div>
-		}
+		</div>
 	} else {
 		<div class="alert alert-danger" role="alert">
 			No se han encontrado datos

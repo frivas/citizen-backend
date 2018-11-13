@@ -16,43 +16,29 @@
 				<thead class="thead-light">
 					<tr>
 						<th>
-							#(question.id) - #(question.questionText)
+							#(question.id) - #(question.question)
 						</th>
 					</tr>
 				</thead>
+				#for(option in question.options) {
 				<tbody>
 					<tr>
 						<td class="align-middle">
 							<label class="btn btn-outline-info">
-								<input type="radio" name="option#(question.id)" id="option#(question.id)a" autocomplete="off" value="1"> a) #(question.options.a)
+								<input type="radio" name="option#(question.id)" id="option#(question.id)#(option.id)" autocomplete="off" value="#(option.id)">#(option.id)) #(option.option)
 							</label>
 						</td>
 					</tr>
-					<tr>
-						<td class="align-middle">
-							<label class="btn btn-outline-info">
-								<input type="radio" name="option#(question.id)" id="option#(question.id)b" autocomplete="off" value="2"> b) #(question.options.b)
-							</label>
-						</td>
-					</tr>
-					#if(question.options.c) {
-					<tr>
-						<td class="align-middle">
-							<label class="btn btn-outline-info">
-								<input type="radio" name="option#(question.id)" id="option#(question.id)c" autocomplete="off" value="3"> c) #(question.options.c)
-							</label>
-						</td>
-					</tr>
+				</tbody>
 				}
-			</tbody>
-		</table>
-	}
-	</div>
-	<div class="container">
-		<div class="row justify-content-end">
-			<button type="submit" class="btn btn-primary">Enviar</button>
+			</table>
+			}
 		</div>
-	</div>
+		<div class="container">
+			<div class="row justify-content-end">
+				<button type="submit" class="btn btn-primary">Enviar</button>
+			</div>
+		</div>
 	</form>
 	<script src="/scripts/clock.js"></script>
 }

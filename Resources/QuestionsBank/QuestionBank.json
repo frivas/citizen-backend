@@ -2,2967 +2,6123 @@
 	"questions": [
 		{
 			"id": "1001",
-			"questionText": "La forma política del Estado español es la...",
-			"options": {
-				"a": "monarquía parlamentaria.",
-				"b": "república federal.",
-				"c": "monarquía federal."
-			},
-			"answer": "a"
+			"question": "La forma política del Estado español es la...",
+			"options": [
+				{
+					"id": "a",
+					"option": "monarquía parlamentaria.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "república federal.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "monarquía federal.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1002",
-			"questionText": "Según la Constitución española, la soberanía nacional reside en el pueblo, del que proceden...",
-			"options": {
-				"a": "las leyes orgánicas del Estado.",
-				"b": "los estatutos de autonomía",
-				"c": "los poderes del Estado."
-			},
-			"answer": "c"
+			"question": "Según la Constitución española, la soberanía nacional reside en el pueblo, del que proceden...",
+			"options": [
+				{
+					"id": "a",
+					"option": "las leyes orgánicas del Estado.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "los estatutos de autonomía",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los poderes del Estado.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1003",
-			"questionText": "Los valores superiores del ordenamiento jurídico de España son: el pluralismo político, la libertad, la igualdad y la...",
-			"options": {
-				"a": "fraternidad.",
-				"b": "justicia.",
-				"c": "solidaridad."
-			},
-			"answer": "b"
+			"question": "Los valores superiores del ordenamiento jurídico de España son: el pluralismo político, la libertad, la igualdad y la...",
+			"options": [
+				{
+					"id": "a",
+					"option": "fraternidad.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "justicia.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "solidaridad.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1004",
-			"questionText": "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran España y la ... entre todas ellas.",
-			"options": {
-				"a": "fraternidad",
-				"b": "igualdad",
-				"c": "solidaridad"
-			},
-			"answer": "c"
+			"question": "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran España y la ... entre todas ellas.",
+			"options": [
+				{
+					"id": "a",
+					"option": "fraternidad",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "igualdad",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "solidaridad",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1005",
-			"questionText": "La Constitución garantiza la libertad religiosa de los individuos y las comunidades, por eso España es un país...",
-			"options": {
-				"a": "laico.",
-				"b": "católico.",
-				"c": "aconfesional."
-			},
-			"answer": "c"
+			"question": "La Constitución garantiza la libertad religiosa de los individuos y las comunidades, por eso España es un país...",
+			"options": [
+				{
+					"id": "a",
+					"option": "laico.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "católico.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "aconfesional.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1006",
-			"questionText": "En la Constitución se establece la separación de los poderes judicial, legislativo y ...",
-			"options": {
-				"a": "administrativo.",
-				"b": "ejecutivo.",
-				"c": "económico."
-			},
-			"answer": "b"
+			"question": "En la Constitución se establece la separación de los poderes judicial, legislativo y ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "administrativo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "ejecutivo.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "económico.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1007",
-			"questionText": "El funcionamiento de las instituciones se garantiza por la ... de los poderes ejecutivo, legislativo y judicial.",
-			"options": {
-				"a": "relación",
-				"b": "separación",
-				"c": "unión"
-			},
-			"answer": "b"
+			"question": "El funcionamiento de las instituciones se garantiza por la ... de los poderes ejecutivo, legislativo y judicial.",
+			"options": [
+				{
+					"id": "a",
+					"option": "relación",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "separación",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "unión",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1008",
-			"questionText": "La Constitución garantiza la seguridad... de los españoles.",
-			"options": {
-				"a": "jurídica",
-				"b": "legislativa",
-				"c": "ejecutiva"
-			},
-			"answer": "a"
+			"question": "La Constitución garantiza la seguridad... de los españoles.",
+			"options": [
+				{
+					"id": "a",
+					"option": "jurídica",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "legislativa",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "ejecutiva",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1009",
-			"questionText": "La Constitución española fue firmada por el Rey, el presidente de las Cortes, el presidente del Congreso y el presidente del...",
-			"options": {
-				"a": "Gobierno.",
-				"b": "Senado.",
-				"c": "Estado."
-			},
-			"answer": "b"
+			"question": "La Constitución española fue firmada por el Rey, el presidente de las Cortes, el presidente del Congreso y el presidente del...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Senado.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Estado.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1010",
-			"questionText": "Deben respetar la Constitución y el resto de legislación vigente...",
-			"options": {
-				"a": "los ciudadanos.",
-				"b": "los poderes públicos.",
-				"c": "los poderes públicos y los ciudadanos."
-			},
-			"answer": "c"
+			"question": "Deben respetar la Constitución y el resto de legislación vigente...",
+			"options": [
+				{
+					"id": "a",
+					"option": "los ciudadanos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "los poderes públicos.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los poderes públicos y los ciudadanos.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1011",
-			"questionText": "El referéndum para la aprobación de la Constitución española se celebró el día...",
-			"options": {
-				"a": "22 de noviembre de 1975.",
-				"b": "15 de junio de 1977.",
-				"c": "6 de diciembre de 1978."
-			},
-			"answer": "c"
+			"question": "El referéndum para la aprobación de la Constitución española se celebró el día...",
+			"options": [
+				{
+					"id": "a",
+					"option": "22 de noviembre de 1975.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "15 de junio de 1977.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "6 de diciembre de 1978.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1012",
-			"questionText": "Los proyectos de reforma constitucional deben ser aprobados por...",
-			"options": {
-				"a": "el Congreso.",
-				"b": "el Senado.",
-				"c": "las dosCámaras."
-			},
-			"answer": "c"
+			"question": "Los proyectos de reforma constitucional deben ser aprobados por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Congreso.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Senado.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "las dosCámaras.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1013",
-			"questionText": "¿Qué tribunal interpreta la Constitución con respecto a actuaciones de los poderes públicos?",
-			"options": {
-				"a": "El Tribunal de Cuentas.",
-				"b": "El Tribunal Constitucional.",
-				"c": "El Tribunal Supremo."
-			},
-			"answer": "b"
+			"question": "¿Qué tribunal interpreta la Constitución con respecto a actuaciones de los poderes públicos?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El Tribunal de Cuentas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El TribunalConstitucional.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El Tribunal Supremo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1014",
-			"questionText": "El Tribunal Constitucional es ... de los poderes del Estado.",
-			"options": {
-				"a": "dependiente",
-				"b": "independiente",
-				"c": "subordinado"
-			},
-			"answer": "b"
+			"question": "El Tribunal Constitucional es ... de los poderes del Estado.",
+			"options": [
+				{
+					"id": "a",
+					"option": "dependiente",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "independiente",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "subordinado",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1015",
-			"questionText": "El jefe del Estado es ...",
-			"options": {
-				"a": "el presidente del Gobierno.",
-				"b": "el Rey.",
-				"c": "el ministro de Asuntos Exteriores y de Cooperación."
-			},
-			"answer": "b"
+			"question": "El jefe del Estado es ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Rey.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el ministro de Asuntos Exteriores y de Cooperación.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1016",
-			"questionText": "El mando supremo de las Fuerzas Armadas corresponde al...",
-			"options": {
-				"a": "el Rey.",
-				"b": "el presidente del Gobierno.",
-				"c": "ministro de Defensa."
-			},
-			"answer": "a"
+			"question": "El mando supremo de las Fuerzas Armadas corresponde al...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Rey.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "ministro de Defensa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1017",
-			"questionText": "Si el Rey o la Reina de España fuera menor de edad, ¿quién sería el regente hasta su mayoría de edad?",
-			"options": {
-				"a": "El presidente del Gobierno.",
-				"b": "El padre o la madre del Rey.",
-				"c": "El ministro del Interior."
-			},
-			"answer": "b"
+			"question": "Si el Rey o la Reina de España fuera menor de edad, ¿quién sería el regente hasta su mayoría de edad?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El padre o la madre del Rey.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El ministro del Interior.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1018",
-			"questionText": "Los embajadores y otros representantes diplomáticos extranjeros son acreditados por ...",
-			"options": {
-				"a": "el Rey.",
-				"b": "el presidente del Gobierno.",
-				"c": "el ministro de Asuntos Exteriores y de Cooperación."
-			},
-			"answer": "a"
+			"question": "Los embajadores y otros representantes diplomáticos extranjeros son acreditados por ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Rey.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el ministro de Asuntos Exteriores y de Cooperación.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1019",
-			"questionText": "Convocar elecciones corresponde al...",
-			"options": {
-				"a": "ministro del Interior.",
-				"b": "presidente del Gobierno.",
-				"c": "Rey."
-			},
-			"answer": "c"
+			"question": "Convocar elecciones corresponde al...",
+			"options": [
+				{
+					"id": "a",
+					"option": "ministro del Interior.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Rey.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1020",
-			"questionText": "La más alta representación del Estado español en las relaciones internacionales corresponde al...",
-			"options": {
-				"a": "Rey.",
-				"b": "presidente del Gobierno.",
-				"c": "ministro de Asuntos Exteriores y de Cooperación."
-			},
-			"answer": "a"
+			"question": "La más alta representación del Estado español en las relaciones internacionales corresponde al...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Rey.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "ministro de Asuntos Exteriores y de Cooperación.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1021",
-			"questionText": "El heredero o heredera de la Corona de España, desde su nacimiento, tiene el título de Príncipe o Princesa de ...",
-			"options": {
-				"a": "Andalucía.",
-				"b": "Aragón.",
-				"c": "Asturias."
-			},
-			"answer": "c"
+			"question": "El heredero o heredera de la Corona de España, desde su nacimiento, tiene el título de Príncipe o Princesa de ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Andalucía.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Aragón.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Asturias.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1022",
-			"questionText": "El Rey de España vive en el...",
-			"options": {
-				"a": "Palacio Real.",
-				"b": "Palacio de la Zarzuela.",
-				"c": "Palacio de la Moncloa."
-			},
-			"answer": "b"
+			"question": "El Rey de España vive en el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Palacio Real.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Palacio de la Zarzuela.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Palacio de la Moncloa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1023",
-			"questionText": "El lugar donde se celebran actos de Estado presididos por el Rey es el...",
-			"options": {
-				"a": "Palacio Real.",
-				"b": "Palacio de la Zarzuela.",
-				"c": "Palacio de la Moncloa."
-			},
-			"answer": "a"
+			"question": "El lugar donde se celebran actos de Estado presididos por el Rey es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Palacio Real.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Palacio de la Zarzuela.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Palacio de la Moncloa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1024",
-			"questionText": "Generalmente, se considera que el primer rey de España fue...",
-			"options": {
-				"a": "Fernando el Santo.",
-				"b": "Carlos I.",
-				"c": "Felipe II."
-			},
-			"answer": "b"
+			"question": "Generalmente, se considera que el primer rey de España fue...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Fernando el Santo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Carlos I.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Felipe II.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1025",
-			"questionText": "La dinastíadel Rey de España, que se inició en el siglo XVIII, es la dinastía..",
-			"options": {
-				"a": "Austria.",
-				"b": "Baviera.",
-				"c": "Borbón."
-			},
-			"answer": "c"
+			"question": "La dinastíadel Rey de España, que se inició enel siglo XVIII, es la dinastía..",
+			"options": [
+				{
+					"id": "a",
+					"option": "Austria.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Baviera.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Borbón.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1026",
-			"questionText": "¿Cuántas franjas tiene la bandera de España?",
-			"options": {
-				"a": "2 horizontales.",
-				"b": "3 verticales.",
-				"c": "3 horizontales."
-			},
-			"answer": "c"
+			"question": "¿Cuántas franjas tiene la bandera de España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "2 horizontales.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "3 verticales.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "3 horizontales.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1027",
-			"questionText": "¿Cuántos colores tiene la bandera española?",
-			"options": {
-				"a": "2.",
-				"b": "3.",
-				"c": "4."
-			},
-			"answer": "a"
+			"question": "¿Cuántos colores tiene la bandera española?",
+			"options": [
+				{
+					"id": "a",
+					"option": "2.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "3.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "4.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1028",
-			"questionText": "Los colores de la bandera española son...",
-			"options": {
-				"a": "blanco y rojo.",
-				"b": "rojo y amarillo.",
-				"c": "amarillo y blanco."
-			},
-			"answer": "b"
+			"question": "Los colores de la bandera española son...",
+			"options": [
+				{
+					"id": "a",
+					"option": "blanco y rojo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "rojo y amarillo.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "amarillo y blanco.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1029",
-			"questionText": "Las comunidades autónomas pueden utilizar, junto con la bandera de España, sus propias banderas en...",
-			"options": {
-				"a": "sus edificios públicos.",
-				"b": "actos oficiales.",
-				"c": "sus edificios públicos y actos oficiales."
-			},
-			"answer": "c"
+			"question": "Las comunidades autónomas pueden utilizar, junto con la bandera de España, sus propias banderas en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "sus edificios públicos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "actos oficiales.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "sus edificios públicos y actos oficiales.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1030",
-			"questionText": "La bandera azul con 12 estrellas amarillas en círculo es el símbolo de...",
-			"options": {
-				"a": "la Unión Europea.",
-				"b": "la Organización de Seguridad y Cooperación en Europa.",
-				"c": "laComisión de Europa."
-			},
-			"answer": "a"
+			"question": "La bandera azul con 12 estrellas amarillas en círculo es el símbolo de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "laUnión Europea.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "la Organización de Seguridad y Cooperación en Europa.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "laComisión de Europa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1031",
-			"questionText": "El escudo de España incluye en su interior la representación de la unión de Castilla, León, Navarra, Granada y...",
-			"options": {
-				"a": "Andalucía.",
-				"b": "Aragón.",
-				"c": "Asturias."
-			},
-			"answer": "b"
+			"question": "El escudo de España incluye en su interior la representación de la unión de Castilla, León, Navarra, Granada y...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Andalucía.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Aragón.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Asturias.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1032",
-			"questionText": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
-			"options": {
-				"a": "El bable.",
-				"b": "El aragonés.",
-				"c": "El euskera."
-			},
-			"answer": "c"
+			"question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El bable.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El aragonés.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El euskera.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1033",
-			"questionText": "Todos los españoles tienen el deber de conocer la lengua... del Estado.",
-			"options": {
-				"a": "autonómica.",
-				"b": "oficial.",
-				"c": "local."
-			},
-			"answer": "b"
+			"question": "Todos los españoles tienen el deber de conocerla lengua... del Estado.",
+			"options": [
+				{
+					"id": "a",
+					"option": "autonómica.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "oficial.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "local.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1034",
-			"questionText": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
-			"options": {
-				"a": "El catalán.",
-				"b": "El murciano.",
-				"c": "El asturleonés."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El catalán.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "El murciano.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El asturleonés.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1035",
-			"questionText": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
-			"options": {
-				"a": "El murciano.",
-				"b": "El valenciano.",
-				"c": "El bable."
-			},
-			"answer": "b"
+			"question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El murciano.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El valenciano.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El bable.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1036",
-			"questionText": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
-			"options": {
-				"a": "El gallego.",
-				"b": "El aragonés.",
-				"c": "El murciano."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas opciones es una lengua cooficial en alguna comunidad autónoma?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El gallego.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "El aragonés.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El murciano.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1037",
-			"questionText": "El ... tiene como fin la promoción y la enseñanza del español y las lenguas cooficiales, y también la difusión de la cultura española e hispanoamericana.",
-			"options": {
-				"a": "Instituto Nacional de Administración Pública",
-				"b": "Instituto Nacional de Estadística",
-				"c": "Instituto Cervantes"
-			},
-			"answer": "c"
+			"question": "El ... tiene como fin la promoción y la enseñanza del español y las lenguas cooficiales, y también la difusión de la cultura española e hispanoamericana.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Instituto Nacional de Administración Pública",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Instituto Nacional de Estadística",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Instituto Cervantes",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1038",
-			"questionText": "El Instituto Cervantes, el Instituto Ramon Llull y el Instituto Vasco Etxepare son organismos que promueven, respectivamente y entre otros, la difusión de las lenguas...",
-			"options": {
-				"a": "española, catalana y vasca.",
-				"b": "española, catalana y gallega.",
-				"c": "gallega, catalana y vasca."
-			},
-			"answer": "a"
+			"question": "El Instituto Cervantes, el Instituto Ramon Llull y el Instituto Vasco Etxepare son organismos que promueven, respectivamente y entre otros, la difusión de las lenguas...",
+			"options": [
+				{
+					"id": "a",
+					"option": "española, catalana y vasca.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "española, catalana y gallega.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "gallega, catalana y vasca.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1039",
-			"questionText": "La sede de la Presidencia del Gobierno y residencia oficial del presidente es el...",
-			"options": {
-				"a": "Palacio Real.",
-				"b": "Palacio de la Zarzuela.",
-				"c": "Palacio de la Moncloa."
-			},
-			"answer": "c"
+			"question": "La sede de la Presidencia del Gobierno y residencia oficial del presidente es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Palacio Real.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Palacio de la Zarzuela.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Palacio de la Moncloa.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1040",
-			"questionText": "Si en unas elecciones generales ningún candidato a la presidencia del Gobierno consigue la confianza del Congreso, ...",
-			"options": {
-				"a": "el Congreso elige al candidato con más votos.",
-				"b": "el Rey convoca nuevas elecciones",
-				"c": "el Rey elige al candidato con más votos."
-			},
-			"answer": "b"
+			"question": "Si en unas elecciones generales ningún candidato a la presidencia del Gobierno consigue la confianza del Congreso, ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Congreso elige al candidato con más votos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Rey convoca nuevas elecciones",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el Rey elige al candidato con más votos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1041",
-			"questionText": "¿Quiénes forman parte del Gobierno?",
-			"options": {
-				"a": "Los ministros.",
-				"b": "Los concejales.",
-				"c": "Los alcaldes."
-			},
-			"answer": "a"
+			"question": "¿Quiénes forman parte del Gobierno?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Los ministros.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Los concejales.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Los alcaldes.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1042",
-			"questionText": "El poder ejecutivo corresponde...",
-			"options": {
-				"a": "a los jueces y magistrados.",
-				"b": "al presidente del Gobierno y ministros.",
-				"c": "a los diputados y senadores."
-			},
-			"answer": "b"
+			"question": "El poder ejecutivo corresponde...",
+			"options": [
+				{
+					"id": "a",
+					"option": "a los jueces y magistrados.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "al presidente del Gobierno y ministros.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "a los diputados y senadores.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1043",
-			"questionText": "Los proyectos de ley son aprobados por...",
-			"options": {
-				"a": "el Consejo de Ministros.",
-				"b": "el presidente del Gobierno.",
-				"c": "el Congreso de los Diputados."
-			},
-			"answer": "a"
+			"question": "Los proyectos de ley son aprobados por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Consejo de Ministros.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Congreso de los Diputados.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1044",
-			"questionText": "La administración civil de España corresponde al poder...",
-			"options": {
-				"a": "ejecutivo.",
-				"b": "legislativo.",
-				"c": "judicial."
-			},
-			"answer": "a"
+			"question": "La administración civil de España corresponde al poder...",
+			"options": [
+				{
+					"id": "a",
+					"option": "ejecutivo.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "legislativo.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "judicial.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1045",
-			"questionText": "La política sanitaria del Gobierno corresponde al...",
-			"options": {
-				"a": "Ministerio de Sanidad, Servicios Sociales e Igualdad.",
-				"b": "Ministerio de Empleo y Seguridad Social.",
-				"c": "Ministerio de Asuntos Exteriores y Cooperación."
-			},
-			"answer": "a"
+			"question": "La política sanitaria del Gobierno corresponde al...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ministerio de Sanidad, Servicios Sociales e Igualdad.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Ministerio de Empleo y Seguridad Social.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Ministerio de Asuntos Exteriores yCooperación.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1046",
-			"questionText": "El gobierno responde en su gestión política ante...",
-			"options": {
-				"a": "el Rey.",
-				"b": "el Senado.",
-				"c": "el Congreso de los Diputados."
-			},
-			"answer": "c"
+			"question": "El gobierno responde en su gestión política ante...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Rey.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Senado.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Congreso de los Diputados.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1047",
-			"questionText": "El mando superior de lasFuerzas y Cuerpos de Seguridad del Estado corresponde al...",
-			"options": {
-				"a": "ministro de Defensa.",
-				"b": "ministro del Interior.",
-				"c": "ministro de Justicia."
-			},
-			"answer": "b"
+			"question": "El mando superior de lasFuerzas y Cuerpos de Seguridad del Estado corresponde al...",
+			"options": [
+				{
+					"id": "a",
+					"option": "ministro de Defensa.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "ministro del Interior.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "ministro de Justicia.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1048",
-			"questionText": "¿Cuántas veces ha presidido España el Consejo Europeo?",
-			"options": {
-				"a": "Dos veces.",
-				"b": "Tres veces.",
-				"c": "Cuatro veces."
-			},
-			"answer": "c"
+			"question": "¿Cuántas veces ha presidido España el Consejo Europeo?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Dos veces.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Tres veces.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Cuatro veces.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1049",
-			"questionText": "¿Cuántas veces ha reformado España su Constitución para adaptarse a las decisiones y directivas europeas?",
-			"options": {
-				"a": "Ninguna.",
-				"b": "Una vez.",
-				"c": "Dos veces."
-			},
-			"answer": "c"
+			"question": "¿Cuántas veces ha reformado España su Constitución para adaptarse a las decisiones y directivas europeas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ninguna.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Una vez.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Dos veces.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1050",
-			"questionText": "¿A cuál de estas organizaciones internacionales pertenece España?",
-			"options": {
-				"a": "Al Mercado Común del Sur (MERCOSUR).",
-				"b": "A la Organización de las Naciones Unidas (ONU).",
-				"c": "A la Unión Económica Euroasiática (UEE)."
-			},
-			"answer": "b"
+			"question": "¿A cuál de estas organizaciones internacionales pertenece España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Al Mercado Común del Sur (MERCOSUR).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "A la Organización de las Naciones Unidas (ONU).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "A la Unión Económica Euroasiática (UEE).",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1051",
-			"questionText": "Las Cortes Generales representan al pueblo. Están formadas por el Senado y por...",
-			"options": {
-				"a": "el Consejo de Ministros.",
-				"b": "el Congreso de los Diputados.",
-				"c": "el ayuntamiento."
-			},
-			"answer": "b"
+			"question": "Las Cortes Generales representan al pueblo. Están formadas por el Senado y por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Consejo de Ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Congreso de los Diputados.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el ayuntamiento.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1052",
-			"questionText": "El poder legislativo corresponde...",
-			"options": {
-				"a": "al presidente y los ministros.",
-				"b": "a los jueces y magistrados.",
-				"c": "a los diputados y senadores."
-			},
-			"answer": "c"
+			"question": "El poder legislativo corresponde...",
+			"options": [
+				{
+					"id": "a",
+					"option": "al presidente y los ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "a los jueces y magistrados.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "alos diputados y senadores.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1053",
-			"questionText": "Las Cortes Generales controlan la acción...",
-			"options": {
-				"a": "del Gobierno.",
-				"b": "de las comunidades autónomas.",
-				"c": "de las provincias."
-			},
-			"answer": "a"
+			"question": "Las Cortes Generales controlan la acción...",
+			"options": [
+				{
+					"id": "a",
+					"option": "del Gobierno.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "de las comunidades autónomas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "de las provincias.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1054",
-			"questionText": "Los diputados del Congreso son elegidos para...",
-			"options": {
-				"a": "3 años.",
-				"b": "4 años.",
-				"c": "5 años."
-			},
-			"answer": "b"
+			"question": "Los diputados del Congreso son elegidos para...",
+			"options": [
+				{
+					"id": "a",
+					"option": "3 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "4 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "5 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1055",
-			"questionText": "El criterio para determinar cuántos diputados corresponden a cada provincia, con excepción de las ciudades autónomas de Ceuta y Melilla, es el número de...",
-			"options": {
-				"a": "ciudades.",
-				"b": "habitantes.",
-				"c": "partidos."
-			},
-			"answer": "b"
+			"question": "El criterio para determinar cuántos diputados corresponden a cada provincia, con excepción de las ciudades autónomas de Ceuta y Melilla, es el número de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "ciudades.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "habitantes.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "partidos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1056",
-			"questionText": "Las poblaciones de las ciudades autónomas de Ceuta y Melilla están representadas en el Congreso cada una por...",
-			"options": {
-				"a": "1 diputado.",
-				"b": "2 diputados.",
-				"c": "3 diputados."
-			},
-			"answer": "a"
+			"question": "Las poblaciones de las ciudades autónomas de Ceuta y Melilla están representadas en el Congreso cada una por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "1 diputado.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "2 diputados.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "3 diputados.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1057",
-			"questionText": "Al poder legislativo le corresponde...",
-			"options": {
-				"a": "crear empleo.",
-				"b": "elaborar leyes.",
-				"c": "elegir alcaldes."
-			},
-			"answer": "b"
+			"question": "Al poder legislativo le corresponde...",
+			"options": [
+				{
+					"id": "a",
+					"option": "crear empleo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "elaborar leyes.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "elegir alcaldes.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1058",
-			"questionText": "La tercera autoridad del Estado, tras el Rey y el presidente del Gobierno, es el...",
-			"options": {
-				"a": "ministro del Interior.",
-				"b": "jefe del Estado Mayor del Ejército.",
-				"c": "presidente del Congreso de los Diputados."
-			},
-			"answer": "c"
+			"question": "La tercera autoridad del Estado, tras el Rey y el presidente del Gobierno, es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "ministro del Interior.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "jefe del Estado Mayor del Ejército.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "presidente del Congreso de los Diputados.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1059",
-			"questionText": "¿Cuántos ciudadanos deben respaldar una iniciativa legislativa para poder presentar una proposición de ley?",
-			"options": {
-				"a": "400.000.",
-				"b": "500.000.",
-				"c": "600.000."
-			},
-			"answer": "b"
+			"question": "¿Cuántos ciudadanos deben respaldar una iniciativa legislativa para poder presentar una proposición de ley?",
+			"options": [
+				{
+					"id": "a",
+					"option": "400.000.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "500.000.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "600.000.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1060",
-			"questionText": "En primera votación para la elección del presidente del Gobierno, se requiere una mayoría... de los votos de los diputados del Congreso.",
-			"options": {
-				"a": "absoluta",
-				"b": "relativa",
-				"c": "simple"
-			},
-			"answer": "a"
+			"question": "En primera votación para la elección del presidente del Gobierno, se requiere una mayoría... de los votos de los diputados del Congreso.",
+			"options": [
+				{
+					"id": "a",
+					"option": "absoluta",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "relativa",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "simple",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1061",
-			"questionText": "Los miembros del Senado se eligen cada...",
-			"options": {
-				"a": "3 años.",
-				"b": "4 años.",
-				"c": "5 años."
-			},
-			"answer": "b"
+			"question": "Los miembros del Senado se eligen cada...",
+			"options": [
+				{
+					"id": "a",
+					"option": "3 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "4 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "5 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1062",
-			"questionText": "Si los presupuestos del Gobierno no se aprueban en el Congreso de los Diputados antes del día 1de enero del año correspondiente...",
-			"options": {
-				"a": "se prorrogan los del año anterior.",
-				"b": "se vuelve a votar la propuesta el día 2 de enero.",
-				"c": "se aprueba la propuesta del Gobierno automáticamente."
-			},
-			"answer": "a"
+			"question": "Si los presupuestos del Gobierno no se aprueban en el Congreso de los Diputados antes del día 1de enero del año correspondiente...",
+			"options": [
+				{
+					"id": "a",
+					"option": "se prorrogan los del año anterior.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "se vuelve a votar la propuesta el día 2 de enero.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "se aprueba la propuesta del Gobierno automáticamente.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1063",
-			"questionText": "Las leyes que se refieren a los derechos fundamentales y a las libertades públicas son...",
-			"options": {
-				"a": "leyes orgánicas.",
-				"b": "decretos ley.",
-				"c": "leyes generales."
-			},
-			"answer": "a"
+			"question": "Las leyes que se refieren a los derechos fundamentales y a las libertades públicas son...",
+			"options": [
+				{
+					"id": "a",
+					"option": "leyes orgánicas.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "decretos ley.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "leyes generales.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1064",
-			"questionText": "Para aprobar, modificar o derogar una ley orgánica, es necesaria en el Congreso una mayoría...",
-			"options": {
-				"a": "simple.",
-				"b": "absoluta.",
-				"c": "relativa."
-			},
-			"answer": "b"
+			"question": "Para aprobar, modificar o derogar una ley orgánica, es necesaria en el Congreso una mayoría...",
+			"options": [
+				{
+					"id": "a",
+					"option": "simple.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "absoluta.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "relativa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1065",
-			"questionText": "El primer periodo ordinario de reunión de las Cámaras es...",
-			"options": {
-				"a": "de agosto a noviembre.",
-				"b": "de septiembre a diciembre.",
-				"c": "de septiembre a noviembre."
-			},
-			"answer": "b"
+			"question": "El primer periodo ordinario de reunión de las Cámaras es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "de agosto a noviembre.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "de septiembre a diciembre.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "de septiembre a noviembre.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1066",
-			"questionText": "El segundo periodo ordinario de reunión de las Cámaras es...",
-			"options": {
-				"a": "de febrero a junio.",
-				"b": "de enero a junio.",
-				"c": "de enero a julio."
-			},
-			"answer": "a"
+			"question": "El segundo periodo ordinario de reunión de las Cámaras es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "de febrero a junio.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "de enero a junio.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "de enero a julio.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1067",
-			"questionText": "La Cámara de representación territorial se llama...",
-			"options": {
-				"a": "Congreso de los Diputados.",
-				"b": "Cámara de Comercio.",
-				"c": "Senado."
-			},
-			"answer": "c"
+			"question": "La Cámara de representación territorial se llama...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Congreso de los Diputados.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Cámara de Comercio.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Senado.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1068",
-			"questionText": "¿Cuántos senadores se eligen en cada provincia, con excepción de las islas y las ciudades autónomas de Ceuta y Melilla?",
-			"options": {
-				"a": "3.",
-				"b": "4.",
-				"c": "5."
-			},
-			"answer": "b"
+			"question": "¿Cuántos senadores se eligen en cada provincia, con excepción de las islas y las ciudades autónomas de Ceuta y Melilla?",
+			"options": [
+				{
+					"id": "a",
+					"option": "3.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "4.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "5.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1069",
-			"questionText": "Las ciudades autónomas de Ceuta y Melilla eligen en las elecciones cada una de ellas a...",
-			"options": {
-				"a": "1 senador.",
-				"b": "2 senadores.",
-				"c": "3 senadores."
-			},
-			"answer": "b"
+			"question": "Las ciudades autónomas de Ceuta y Melilla eligen en las elecciones cada una de ellas a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "1 senador.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "2 senadores.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "3 senadores.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1070",
-			"questionText": "Las sesiones conjuntas del Congreso y el Senado son presididas por...",
-			"options": {
-				"a": "el Rey.",
-				"b": "el presidente del Congreso.",
-				"c": "el presidente del Gobierno."
-			},
-			"answer": "c"
+			"question": "Las sesiones conjuntas del Congreso y el Senado son presididas por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Rey.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el presidente del Congreso.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el presidente del Gobierno.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1071",
-			"questionText": "El poder judicial está constituido por...",
-			"options": {
-				"a": "los ministros y el presidente.",
-				"b": "los jueces y magistrados.",
-				"c": "los diputados y senadores."
-			},
-			"answer": "b"
+			"question": "El poder judicial está constituido por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "los ministros y el presidente.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "los jueces y magistrados.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "los diputados y senadores.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1072",
-			"questionText": "¿Cuál es de estos organismos forma parte del poder judicial?",
-			"options": {
-				"a": "El Tribunal de Cuentas.",
-				"b": "El Tribunal Constitucional.",
-				"c": "El Tribunal Supremo."
-			},
-			"answer": "c"
+			"question": "¿Cuál es de estos organismos forma parte del poder judicial?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El Tribunal de Cuentas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El Tribunal Constitucional.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El Tribunal Supremo.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1073",
-			"questionText": "El órgano con funciones de gobierno del poder judicial es el...",
-			"options": {
-				"a": "Ministerio de Justicia.",
-				"b": "Tribunal Supremo.",
-				"c": "Consejo General del Poder Judicial."
-			},
-			"answer": "c"
+			"question": "El órgano con funciones de gobierno del poder judicial es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ministerio de Justicia.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Tribunal Supremo.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Consejo General del Poder Judicial.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1074",
-			"questionText": "El Consejo General del Poder Judicial...",
-			"options": {
-				"a": "es diferente en cada comunidad autónoma.",
-				"b": "está formado por ministros.",
-				"c": "garantiza la independencia de los jueces."
-			},
-			"answer": "c"
+			"question": "El Consejo General del Poder Judicial...",
+			"options": [
+				{
+					"id": "a",
+					"option": "es diferente encada comunidad autónoma.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "está formado por ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "garantiza la independencia de los jueces.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1075",
-			"questionText": "La defensa de la integridad territorial de España corresponde a...",
-			"options": {
-				"a": "la Policía Nacional y la Guardia Civil.",
-				"b": "las Fuerzas Armadas.",
-				"c": "la Policía Nacional y las policías autonómicas."
-			},
-			"answer": "b"
+			"question": "La defensa de la integridad territorial de España corresponde a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Policía Nacional y la Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "las Fuerzas Armadas.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "la Policía Nacional y las policías autonómicas.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1076",
-			"questionText": "El Ejército español participa desde 1989 en misiones de paz de la...",
-			"options": {
-				"a": "Organización de Estados Iberoamericanos (OEI).",
-				"b": "Unión Europea Occidental (UEO).",
-				"c": "Organización de Naciones Unidas (ONU)."
-			},
-			"answer": "c"
+			"question": "El Ejército español participa desde 1989 en misiones de paz de la...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Organización de Estados Iberoamericanos (OEI).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Unión Europea Occidental (UEO).",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Organización de Naciones Unidas (ONU).",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1077",
-			"questionText": "La vigilancia de puertos y aeropuertos, fronteras y costas corresponde a...",
-			"options": {
-				"a": "la Guardia Civil.",
-				"b": "la Policía Local.",
-				"c": "la Policía Nacional."
-			},
-			"answer": "a"
+			"question": "La vigilancia de puertos y aeropuertos, fronteras y costas corresponde a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Guardia Civil.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "la Policía Local.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "la Policía Nacional.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1078",
-			"questionText": "El control de la entrada y salida del territorio nacional de españoles y extranjeros corresponde a...",
-			"options": {
-				"a": "la Guardia Civil.",
-				"b": "la Policía Local.",
-				"c": "la PolicíaNacional."
-			},
-			"answer": "c"
+			"question": "El control de la entrada y salida del territorio nacional de españoles y extranjeros corresponde a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "la Policía Local.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "la PolicíaNacional.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1079",
-			"questionText": "La regulación del tráfico en las ciudades corresponde a...",
-			"options": {
-				"a": "la Guardia Civil.",
-				"b": "la Policía Local.",
-				"c": "la Policía Nacional."
-			},
-			"answer": "b"
+			"question": "La regulación del tráfico en las ciudades corresponde a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "la Policía Local.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "la Policía Nacional.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1080",
-			"questionText": "¿Cómo se llama la policía autonómica de Cataluña?",
-			"options": {
-				"a": "Guardia Civil.",
-				"b": "Ertzaintza.",
-				"c": "Mossos d’Esquadra."
-			},
-			"answer": "c"
+			"question": "¿Cómo se llama la policía autonómica de Cataluña?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Ertzaintza.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Mossos d’Esquadra.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1081",
-			"questionText": "¿Cómo se llama la policía autonómica del País Vasco?",
-			"options": {
-				"a": "Ertzaintza.",
-				"b": "Guardia Civil.",
-				"c": "Mossos d’Esquadra."
-			},
-			"answer": "a"
+			"question": "¿Cómo se llama la la policía autonómica del País Vasco?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ertzaintza.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Mossos d’Esquadra.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1082",
-			"questionText": "El supremo órgano consultivo del Gobierno de España es...",
-			"options": {
-				"a": "el Consejo de Ministros.",
-				"b": "el Consejo de Estado.",
-				"c": "el Consejo Económico y Social."
-			},
-			"answer": "b"
+			"question": "El supremo órgano consultivo del Gobierno de España es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Consejo de Ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Consejo de Estado.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el Consejo Económico y Social.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1083",
-			"questionText": "El órgano consultivo del Gobierno de España en el que están representados empresarios, sindicatos y organizaciones sociales es...",
-			"options": {
-				"a": "el Consejo de Ministros.",
-				"b": "el Consejo de Estado.",
-				"c": "el Consejo Económico y Social."
-			},
-			"answer": "c"
+			"question": "El órgano consultivo del Gobierno de España en el que están representados empresarios, sindicatos y organizaciones sociales es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Consejo de Ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Consejo de Estado.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Consejo Económico y Social.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1084",
-			"questionText": "¿Quién puede presentar una queja al Defensor del Pueblo?",
-			"options": {
-				"a": "Solo los ciudadanos legalmente residentes.",
-				"b": "Solo los españoles mayores de 18 años.",
-				"c": "Todos los ciudadanos, españoles o extranjeros."
-			},
-			"answer": "c"
+			"question": "¿Quién puede presentar una queja al Defensor del Pueblo?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Solo los ciudadanos legalmente residentes.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Solo los españoles mayores de 18 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Todos los ciudadanos, españoles o extranjeros.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1085",
-			"questionText": "¿A quién informa de su gestión el Defensor del Pueblo?",
-			"options": {
-				"a": "Al Rey.",
-				"b": "Al presidente del Gobierno.",
-				"c": "A las Cortes Generales."
-			},
-			"answer": "c"
+			"question": "¿A quién informa de su gestión el Defensor del Pueblo?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Al Rey.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Al presidente del Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "A las Cortes Generales.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1086",
-			"questionText": "¿Cuál es el órgano que controla la gestión económico-financiera del Estado?",
-			"options": {
-				"a": "El Tribunal de Cuentas.",
-				"b": "El Tribunal Supremo.",
-				"c": "El Tribunal Constitucional."
-			},
-			"answer": "a"
+			"question": "¿Cuál es el órgano que controla la gestión económico-financiera del Estado?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El Tribunal de Cuentas.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "El Tribunal Supremo.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El Tribunal Constitucional.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1087",
-			"questionText": "La inspección y recaudación de los impuestos que gestiona el Estado corresponde a...",
-			"options": {
-				"a": "el Tribunal de Cuentas.",
-				"b": "la Agencia Tributaria.",
-				"c": "el Consejo Económico y Social."
-			},
-			"answer": "b"
+			"question": "La inspección y recaudación de los impuestos que gestiona el Estado corresponde a...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Tribunal de Cuentas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "la Agencia Tributaria.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el Consejo Económico y Social.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1088",
-			"questionText": "El organismo que elabora y difunde estadísticas sobre España es...",
-			"options": {
-				"a": "el Consejo Económico y Social.",
-				"b": "el Instituto Nacional de Estadística.",
-				"c": "la Agencia Tributaria."
-			},
-			"answer": "b"
+			"question": "El organismo que elabora y difunde estadísticas sobre España es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Consejo Económico y Social.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Instituto Nacional de Estadística.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "la Agencia Tributaria.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1089",
-			"questionText": "¿Cuál es la publicación oficial del Estado que sirve para publicitar leyes, normas o convocatorias públicas?",
-			"options": {
-				"a": "El INE (Instituto Nacional de Estadística).",
-				"b": "El BOE (Boletín Oficial del Estado).",
-				"c": "El PAE (Portal de Administración Electrónica)"
-			},
-			"answer": "b"
+			"question": "¿Cuál es la publicación oficial del Estado que sirve para publicitar leyes, normas o convocatorias públicas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El INE(Instituto Nacional de Estadística).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El BOE (Boletín Oficial del Estado).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El PAE (Portal de Administración Electrónica)",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1090",
-			"questionText": "El Gobierno ofrece toda la información sobre novedades e iniciativas de la Administración Electrónica de España a través del...",
-			"options": {
-				"a": "El INE (Instituto Nacional de Estadística).",
-				"b": "El BOE (Boletín Oficial del Estado).",
-				"c": "El PAE (Portal de Administración Electrónica)"
-			},
-			"answer": "c"
+			"question": "El Gobierno ofrece toda la información sobre novedades e iniciativas de la Administración Electrónica de España a través del...",
+			"options": [
+				{
+					"id": "a",
+					"option": "El INE (Instituto Nacional de Estadística).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El BOE (Boletín Oficial del Estado).",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El PAE (Portal de Administración Electrónica)",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1091",
-			"questionText": "El teléfono de la Administración General del Estado que ofrece información sobre empleo público, becas o ayudas y subvenciones, organismos de las Administraciones, etc., es el...",
-			"options": {
-				"a": "010.",
-				"b": "060.",
-				"c": "091."
-			},
-			"answer": "b"
+			"question": "El teléfono de la Administración General del Estado que ofrece información sobre empleo público, becas o ayudas y subvenciones, organismos de las Administraciones, etc., es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "010.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "060.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "091.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1092",
-			"questionText": "El Estado español se organiza territorialmente en...",
-			"options": {
-				"a": "municipios, cantones y regiones administrativas.",
-				"b": "municipios, provincias y comunidades autónomas.",
-				"c": "municipios, distritos y estados federales."
-			},
-			"answer": "b"
+			"question": "El Estado español se organiza territorialmente en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "municipios, cantones y regiones administrativas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "municipios, provincias y comunidades autónomas.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "municipios, distritos y estados federales.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1093",
-			"questionText": "Las provincias limítrofes con características históricas, culturales y económicas comunes, las islas y las provincias con especial entidad regional histórica fueron la base de...",
-			"options": {
-				"a": "las comunidades autónomas.",
-				"b": "los distritos.",
-				"c": "los municipios."
-			},
-			"answer": "a"
+			"question": "Las provincias limítrofes con características históricas, culturales y económicas comunes, las islas y las provincias con especial entidad regional histórica fueron la base de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "las comunidades autónomas.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "los distritos.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los municipios.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1094",
-			"questionText": "Las leyes orgánicas normativas de las comunidades y ciudades autónomas de España se denominan...",
-			"options": {
-				"a": "leyes de autonomía.",
-				"b": "estatutos de autonomía.",
-				"c": "reglamentos de autonomía."
-			},
-			"answer": "b"
+			"question": "Las leyes orgánicas normativas de las comunidades y ciudades autónomas de España se denominan...",
+			"options": [
+				{
+					"id": "a",
+					"option": "leyes de autonomía.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "estatutos de autonomía.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "reglamentos de autonomía.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1095",
-			"questionText": "La norma institucional fundamental de una comunidad autónoma es ...",
-			"options": {
-				"a": "la Constitución española.",
-				"b": "el estatuto de autonomía.",
-				"c": "el Código Civil."
-			},
-			"answer": "a"
+			"question": "La norma institucional fundamental de una comunidad autónoma es ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Constitución española.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el estatuto de autonomía.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Código Civil.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1096",
-			"questionText": "¿Quién es el representante de la Administración del Estado en una comunidad autónoma?",
-			"options": {
-				"a": "El presidente de la comunidad autónoma.",
-				"b": "El delegado del Gobierno.",
-				"c": "El presidente de la Asamblea autonómica."
-			},
-			"answer": "b"
+			"question": "¿Quién es el representante de la Administración del Estado en una comunidad autónoma?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El presidente de la comunidad autónoma.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El delegado del Gobierno.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El presidente de la Asamblea autonómica.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1097",
-			"questionText": "Los fondos públicos en España creados para corregir los desequilibrios económicos de las distintas autonomías son el Fondo Complementario y el Fondo de...",
-			"options": {
-				"a": "Solidaridad.",
-				"b": "Compensación.",
-				"c": "Autonomía."
-			},
-			"answer": "b"
+			"question": "Los fondos públicos en España creados para corregir los desequilibrios económicos de las distintas autonomías son el Fondo Complementario y el Fondo de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Solidaridad.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Compensación.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Autonomía.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1098",
-			"questionText": "La enseñanza de las lenguas cooficiales es competencia...",
-			"options": {
-				"a": "del Estado.",
-				"b": "de la comunidad autónoma.",
-				"c": "de la provincia."
-			},
-			"answer": "b"
+			"question": "La enseñanza de las lenguas cooficiales es competencia...",
+			"options": [
+				{
+					"id": "a",
+					"option": "del Estado.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "de la comunidad autónoma.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "de la provincia.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1099",
-			"questionText": "¿Cuál de estas ciudades fue capital de España antes del reinado de Felipe II?",
-			"options": {
-				"a": "Madrid.",
-				"b": "Salamanca.",
-				"c": "Toledo."
-			},
-			"answer": "c"
+			"question": "¿Cuál de estas ciudades fue capital deEspaña antes del reinado de Felipe II?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Madrid.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Salamanca.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Toledo.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1100",
-			"questionText": "¿Cuál de estas ciudades es capital de España desde el reinado de Felipe II (excepto durante un breve periodo)?",
-			"options": {
-				"a": "Madrid.",
-				"b": "Salamanca.",
-				"c": "Toledo."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas ciudades es capital de España desde el reinado de Felipe II (excepto durante un breve periodo)?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Madrid.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Salamanca.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Toledo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1101",
-			"questionText": "En materia de relaciones internacionales, la competencia es de...",
-			"options": {
-				"a": "el Estado.",
-				"b": "las comunidades autónomas.",
-				"c": "los ayuntamientos."
-			},
-			"answer": "a"
+			"question": "En materia de relaciones internacionales, la competencia es de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Estado.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "las comunidades autónomas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los ayuntamientos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1102",
-			"questionText": "En materia de nacionalidad, inmigración, emigración, extranjería y derecho de asilo, la competencia exclusiva es de...",
-			"options": {
-				"a": "el Estado.",
-				"b": "las comunidades autónomas.",
-				"c": "los ayuntamientos."
-			},
-			"answer": "a"
+			"question": "En materia de nacionalidad, inmigración, emigración, extranjería y derecho de asilo, la competencia exclusiva es de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Estado.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "las comunidades autónomas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los ayuntamientos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1103",
-			"questionText": "En materia de Sanidad e higiene, la competencia de gestión es de...",
-			"options": {
-				"a": "el Estado.",
-				"b": "las comunidades autónomas.",
-				"c": "los ayuntamientos."
-			},
-			"answer": "b"
+			"question": "En materia de Sanidad e higiene, la competencia de gestión es de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Estado.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "las comunidades autónomas.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "los ayuntamientos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1104",
-			"questionText": "El desarrollo económico de una comunidad autónoma es competencia... de dicha comunidad, de acuerdo con la política económica nacional.",
-			"options": {
-				"a": "compartida",
-				"b": "exclusiva",
-				"c": "tutelada"
-			},
-			"answer": "b"
+			"question": "El desarrollo económico de una comunidad autónoma es competencia... de dicha comunidad, de acuerdo con la política económica nacional.",
+			"options": [
+				{
+					"id": "a",
+					"option": "compartida",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "exclusiva",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "tutelada",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1105",
-			"questionText": "El ayuntamiento está formado por el alcalde y...",
-			"options": {
-				"a": "los concejales.",
-				"b": "los diputados.",
-				"c": "los senadores."
-			},
-			"answer": "a"
+			"question": "El ayuntamiento está formado por el alcalde y...",
+			"options": [
+				{
+					"id": "a",
+					"option": "los concejales.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "los diputados.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los senadores.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1106",
-			"questionText": "¿Quiénes forman parte del órgano ejecutivo de las comunidades autónomas?",
-			"options": {
-				"a": "El presidente y los ministros.",
-				"b": "El alcalde y los concejales.",
-				"c": "El cabildo."
-			},
-			"answer": "c"
+			"question": "¿Quiénes forman parte del órgano ejecutivo de las comunidades autónomas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El presidente y los ministros.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El alcalde y los concejales.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El cabildo.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1107",
-			"questionText": "¿Cuál es el órgano de gobierno en los municipios?",
-			"options": {
-				"a": "El ayuntamiento.",
-				"b": "La diputación.",
-				"c": "El presidente y los consejeros."
-			},
-			"answer": "a"
+			"question": "¿Cuál es el órgano de gobierno en los municipios?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El ayuntamiento.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "La diputación.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El presidente y los consejeros.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1108",
-			"questionText": "¿Cómo se llaman los órganos de gobierno de las provincias españolas?",
-			"options": {
-				"a": "Cabildos.",
-				"b": "Consejos Insulares.",
-				"c": "Diputaciones."
-			},
-			"answer": "c"
+			"question": "¿Cómo se llaman los órganos de gobierno de las provincias españolas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Cabildos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Consejos Insulares.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Diputaciones.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1109",
-			"questionText": "¿Cuál de estas tres ciudades españolas está entre las diez más pobladas?",
-			"options": {
-				"a": "Málaga.",
-				"b": "Gijón.",
-				"c": "Toledo."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas tres ciudades españolas está entre las diez más pobladas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Málaga.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Gijón.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Toledo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1110",
-			"questionText": "Los españoles son mayores de edad a los...",
-			"options": {
-				"a": "16 años.",
-				"b": "18 años.",
-				"c": "21 años."
-			},
-			"answer": "b"
+			"question": "Los españoles son mayores de edad a los...",
+			"options": [
+				{
+					"id": "a",
+					"option": "16 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "18 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "21 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1111",
-			"questionText": "En España la enseñanza básica es...",
-			"options": {
-				"a": "voluntaria y gratuita.",
-				"b": "obligatoria y gratuita.",
-				"c": "obligatoria y de pago."
-			},
-			"answer": "b"
+			"question": "En España la enseñanza básica es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "voluntaria y gratuita.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "obligatoria y gratuita.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "obligatoria y de pago.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1112",
-			"questionText": "Los españoles pueden votar a partir de los...",
-			"options": {
-				"a": "16 años.",
-				"b": "18 años.",
-				"c": "21 años."
-			},
-			"answer": "b"
+			"question": "Los españoles pueden votar a partir de los...",
+			"options": [
+				{
+					"id": "a",
+					"option": "16 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "18 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "21 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1113",
-			"questionText": "Los ciudadanos de la UE y de algunos países con acuerdos de reciprocidad, residentes en España, pueden votar en las elecciones...",
-			"options": {
-				"a": "locales.",
-				"b": "autonómicas.",
-				"c": "generales."
-			},
-			"answer": "a"
+			"question": "Los ciudadanos de la UE y de algunos países con acuerdos de reciprocidad, residentes en España, pueden votar en las elecciones...",
+			"options": [
+				{
+					"id": "a",
+					"option": "locales.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "autonómicas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "generales.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1114",
-			"questionText": "En España, los cargos de presidente y vocales de las mesas electorales son...",
-			"options": {
-				"a": "obligatorios.",
-				"b": "voluntarios.",
-				"c": "permanentes."
-			},
-			"answer": "a"
+			"question": "En España, los cargos de presidente y vocales de las mesas electorales son...",
+			"options": [
+				{
+					"id": "a",
+					"option": "obligatorios.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "voluntarios.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "permanentes.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1115",
-			"questionText": "¿A quiénes se elige en las elecciones generales?",
-			"options": {
-				"a": "A los senadores y diputados.",
-				"b": "A los senadores y eurodiputados.",
-				"c": "A los concejales y diputados."
-			},
-			"answer": "a"
+			"question": "¿A quiénes se elige en las elecciones generales?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A los senadores y diputados.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "A los senadores y eurodiputados.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "A los concejales y diputados.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1116",
-			"questionText": "El organismo que elabora el censo electoral en España es el...",
-			"options": {
-				"a": "BOE (Boletín Oficial del Administración).",
-				"b": "INE (Instituto Nacional de Estadística)",
-				"c": "PAE (Portal de Estado Electrónica)"
-			},
-			"answer": "b"
+			"question": "El organismo que elabora el censo electoral en España es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "BOE (Boletín Oficial del Administración).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "INE (Instituto Nacional de Estadística)",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "PAE (Portal de Estado Electrónica)",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1117",
-			"questionText": "Pueden ser elegidos para algún cargo político en España los miembros de...",
-			"options": {
-				"a": "la Familia Real.",
-				"b": "los partidos políticos.",
-				"c": "las Fuerzas y Cuerpos de Seguridad en activo."
-			},
-			"answer": "b"
+			"question": "Pueden ser elegidos para algún cargo político en España los miembros de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Familia Real.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "los partidos políticos.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "las Fuerzas y Cuerpos de Seguridad en activo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1118",
-			"questionText": "El registro de Organizaciones No Gubernamentales para Desarrollo (ONGD) está adscrito a la...",
-			"options": {
-				"a": "Agencia Española de Cooperación.",
-				"b": "Agencia Tributaria.",
-				"c": "Agencia Española de Protección de datos."
-			},
-			"answer": "a"
+			"question": "El registro de Organizaciones No Gubernamentales para Desarrollo (ONGD) está adscrito a la...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Agencia Española de Cooperación.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Agencia Tributaria.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Agencia Española de Protección de datos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "1119",
-			"questionText": "La organización que defiende y promueve los intereses de los trabajadores se denomina...",
-			"options": {
-				"a": "asociación.",
-				"b": "partido.",
-				"c": "sindicato."
-			},
-			"answer": "c"
+			"question": "La organización que defiende y promueve los intereses de los trabajadores se denomina...",
+			"options": [
+				{
+					"id": "a",
+					"option": "asociación.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "partido.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "sindicato.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "1120",
-			"questionText": "¿Quién tiene por finalidad garantizar la transparencia y objetividad de las elecciones en España?",
-			"options": {
-				"a": "La Administración electoral.",
-				"b": "La Administración electrónica.",
-				"c": "La Administración pública."
-			},
-			"answer": "a"
+			"question": "¿Quién tiene por finalidad garantizar la transparencia y objetividad de las elecciones en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "La Administración electoral.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "La Administración electrónica.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "La Administración pública.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2001",
-			"questionText": "La mayoría de edad en España es a los 16 años.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "La mayoría de edad en España es a los 16 años.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2002",
-			"questionText": "Los españoles tienen los mismos derechos fundamentales en cualquier parte del territorio del Estado.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los españoles tienen los mismos derechos fundamentales en cualquier parte del territorio del Estado.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2003",
-			"questionText": "Los extranjeros en España tienen los mismos derechos que los españoles, aunque España no haya firmado tratados específicos al respecto con su país de origen.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Los extranjeros en España tienen los mismos derechos que los españoles, aunque España no haya firmado tratados específicos al respecto con su país de origen.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2004",
-			"questionText": "Los ciudadanos pueden proponer nuevas leyes ante el Defensor del Pueblo.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Los ciudadanos pueden proponer nuevas leyes ante el Defensor del Pueblo.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2005",
-			"questionText": "Se puede obligar a alguien a declarar su ideología, religión o creencias.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Se puede obligar a alguien a declarar su ideología, religión o creencias.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2006",
-			"questionText": "Se puede limitar a una persona el derecho a entrar y salir libremente de España por motivos ideológicos.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Se puede limitar a una persona el derecho a entrar y salir libremente de España por motivos ideológicos.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2007",
-			"questionText": "En la Constitución no se habla del derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "En la Constitución no se habla del derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2008",
-			"questionText": "La Constitución garantiza el derecho de los españoles a una vivienda digna.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "La Constitución garantiza el derecho de los españoles a una vivienda digna.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2009",
-			"questionText": "En España las fuerzas de seguridad pueden entrar en un domicilio privado sin resolución judicial en cualquier momento.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "En España las fuerzas de seguridad pueden entrar en un domicilio privado sin resolución judicial en cualquier momento.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2010",
-			"questionText": "Se garantiza el secreto de las comunicaciones de los españoles, salvo resolución judicial.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Se garantiza el secreto de las comunicaciones de los españoles, salvo resolución judicial.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2011",
-			"questionText": "Se reconoce la autonomía de las universidades en los términos que establezca la ley.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Se reconoce la autonomía de las universidades en los términos que establezca la ley.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2012",
-			"questionText": "La enseñanza básica (Primaria y Secundaria, de 6 a 16 años) es obligatoria y gratuita.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "La enseñanza básica (Primaria y Secundaria, de 6 a 16 años) es obligatoria y gratuita.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2013",
-			"questionText": "Los profesores, los padres y los alumnos intervienen en el control y gestión de los centros sostenidos por la Administración con fondos públicos.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los profesores, los padres y los alumnos intervienen en el control y gestión de los centros sostenidos por la Administración con fondos públicos.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2014",
-			"questionText": "Los profesores universitarios tienen derecho a enseñar con libertad, dentro de los límites de la Constitución.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los profesores universitarios tienen derecho a enseñar con libertad, dentro de los límites de la Constitución.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2015",
-			"questionText": "Los poderes públicos tienen obligación de fomentar la educación sanitaria, la educación física y el deporte.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los poderes públicos tienen obligación de fomentar la educación sanitaria, la educación física y el deporte.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2016",
-			"questionText": "Los ciudadanos tienen derecho a la producción y creación literaria, artística, científica y técnica.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los ciudadanos tienen derecho a la producción y creación literaria, artística, científica y técnica.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2017",
-			"questionText": "En España se regulan mediante ley las causas de separación y disolución matrimonial.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "En España se regulan mediante ley las causas de separación y disolución matrimonial.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2018",
-			"questionText": "Es obligatorio cumplir las sentencias de los jueces y tribunales.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Es obligatorio cumplir las sentencias de los jueces y tribunales.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2019",
-			"questionText": "Se puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituían delito.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Se puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituían delito.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2020",
-			"questionText": "Es obligatorio colaborar en un juicio, cuando así lo piden los jueces y tribunales.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Es obligatorio colaborar en un juicio, cuando así lo piden los jueces y tribunales.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2021",
-			"questionText": "Las penas de cárcel y las medidas de seguridad están orientadas en España hacia la reeducación y reinserción social.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Las penas de cárcel y las medidas de seguridad están orientadas en España hacia la reeducación y reinserción social.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2022",
-			"questionText": "Todos los españoles mayores de edad pueden ser elegidos para algún cargo público.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Todos los españoles mayores de edad pueden ser elegidos para algún cargo público.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2023",
-			"questionText": "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en las elecciones.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en las elecciones.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2024",
-			"questionText": "En España no está reconocido el derecho de asociación.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "En España no está reconocido el derecho de asociación.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2025",
-			"questionText": "En caso de huelga, la ley no garantiza el mantenimiento de los servicios esenciales de la comunidad.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "En caso de huelga, la ley no garantiza el mantenimiento de los servicios esenciales de la comunidad.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2026",
-			"questionText": "Los trabajadores tienen derecho a la huelga para defender sus intereses laborales.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los trabajadores tienen derecho a la huelga para defender sus intereses laborales.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2027",
-			"questionText": "Todos deben contribuir al sostenimiento de los gastos públicos de acuerdo con su capacidad económica.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Todos deben contribuir al sostenimiento de los gastos públicos de acuerdo con su capacidad económica.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2028",
-			"questionText": "Los poderes públicos deben mantener un régimen público de Seguridad Social para todos los ciudadanos.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los poderes públicos deben mantener un régimen público de Seguridad Social para todos los ciudadanos.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2029",
-			"questionText": "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2030",
-			"questionText": "Los poderes públicos pueden promover la participación de la juventud en el desarrollo político, social, económico y cultural, si así lo desean.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Los poderes públicos pueden promover la participación de la juventud en el desarrollo político, social, económico y cultural, si así lo desean.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2031",
-			"questionText": "Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo la seguridad, la salud y los intereses económicos de los mismos.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo la seguridad, la salud y los intereses económicos de los mismos.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2032",
-			"questionText": "Los poderes públicos pueden planificar y ejecutar los recursos públicos con total libertad y sin ningún tipo de criterio de gestión.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Los poderes públicos pueden planificar y ejecutar los recursos públicos con total libertad y sin ningún tipo de criterio de gestión.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2033",
-			"questionText": "Los españoles pueden plantear reclamaciones ante instituciones europeas.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Los españoles pueden plantear reclamaciones ante instituciones europeas.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2034",
-			"questionText": "Los españoles tienen la obligación de declarar los bienes que posean en el extranjero por un valor inferior a 50.000 euros.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "Los españoles tienen la obligación de declarar los bienes que posean en el extranjero por un valor inferior a 50.000 euros.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "2035",
-			"questionText": "Todos los españoles tienen el derecho y el deber de defender España.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "a"
+			"question": "Todos los españoles tienen el derecho y el deber de defender España.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "2036",
-			"questionText": "En caso de grave riesgo o catástrofe pública los ciudadanos españoles pueden ayudar si quieren.",
-			"options": {
-				"a": "Verdadero",
-				"b": "Falso"
-			},
-			"answer": "b"
+			"question": "En caso de grave riesgo o catástrofe pública los ciudadanos españoles pueden ayudar si quieren.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Verdadero",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Falso",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3001",
-			"questionText": "¿De qué comunidad autónoma forman parte Castellón, Valencia y Alicante?",
-			"options": {
-				"a": "Principadode Asturias.",
-				"b": "Andalucía.",
-				"c": "Comunidad Valenciana."
-			},
-			"answer": "c"
+			"question": "¿De qué comunidad autónoma forman parte Castellón, Valencia y Alicante?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Principado de Asturias.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Andalucía.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Comunidad Valenciana.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3002",
-			"questionText": "La capital de la comunidad autónoma de Cantabria es...",
-			"options": {
-				"a": "Oviedo.",
-				"b": "Palma de Mallorca.",
-				"c": "Santander."
-			},
-			"answer": "c"
+			"question": "La capital de la comunidad autónoma de Cantabria es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Oviedo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Palma de Mallorca.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Santander.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3003",
-			"questionText": "¿A qué grupo de islas pertenecen Mallorca, Menorca e Ibiza?",
-			"options": {
-				"a": "Islas Canarias.",
-				"b": "Islas Baleares.",
-				"c": "Islas Cíes."
-			},
-			"answer": "b"
+			"question": "¿A qué grupo de islas pertenecen Mallorca, Menorca e Ibiza?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Islas Canarias.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Islas Baleares.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Islas Cíes.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3004",
-			"questionText": "¿En qué comunidad autónoma se encuentra la ciudad de Pamplona?",
-			"options": {
-				"a": "Comunidad de Aragón.",
-				"b": "Comunidad de Madrid.",
-				"c": "Comunidad Foral de Navarra."
-			},
-			"answer": "c"
+			"question": "¿En qué comunidad autónoma se encuentra la ciudad de Pamplona?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Comunidad de Aragón.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Comunidad de Madrid.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Comunidad Foral de Navarra.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3005",
-			"questionText": "¿Cuál de estas provincias no está en la comunidad autónoma de Galicia?",
-			"options": {
-				"a": "A Coruña.",
-				"b": "Cáceres.",
-				"c": "Pontevedra."
-			},
-			"answer": "b"
+			"question": "¿Cuál de estas provincias no está en la comunidad autónoma de Galicia?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A Coruña.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Cáceres.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Pontevedra.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3006",
-			"questionText": "¿Cuántas comunidades autónomas hay en España?",
-			"options": {
-				"a": "7.",
-				"b": "17.",
-				"c": "27."
-			},
-			"answer": "b"
+			"question": "¿Cuántas comunidades autónomas hay en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "7.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "17.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "27.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3007",
-			"questionText": "¿De qué comunidad autónoma es capital Sevilla?",
-			"options": {
-				"a": "Andalucía.",
-				"b": "Extremadura.",
-				"c": "Galicia."
-			},
-			"answer": "a"
+			"question": "¿De qué comunidad autónoma es capital Sevilla?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Andalucía.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Extremadura.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Galicia.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3008",
-			"questionText": "Barcelona es la capital de la comunidad autónoma de...",
-			"options": {
-				"a": "Comunidad Valenciana.",
-				"b": "Cataluña.",
-				"c": "Cantabria."
-			},
-			"answer": "b"
+			"question": "Barcelona es la capital de la comunidad autónoma de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Comunidad Valenciana.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Cataluña.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Cantabria.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3009",
-			"questionText": "La capital de la comunidad autónoma de Extremadura es...",
-			"options": {
-				"a": "Badajoz.",
-				"b": "Cáceres.",
-				"c": "Mérida."
-			},
-			"answer": "c"
+			"question": "La capital de la comunidad autónoma de Extremadura es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Badajoz.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Cáceres.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Mérida.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3010",
-			"questionText": "Las instituciones de la comunidad autónoma de... tienen su sede en Valladolid.",
-			"options": {
-				"a": "Canarias",
-				"b": "Castilla y León",
-				"c": "Castilla-La Mancha"
-			},
-			"answer": "b"
+			"question": "Las instituciones de la comunidad autónoma de... tienen su sede en Valladolid.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Canarias",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Castilla y León",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Castilla-La Mancha",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3011",
-			"questionText": "Huesca, Teruel y Zaragoza forman parte de la comunidad autónoma de...",
-			"options": {
-				"a": "Cataluña.",
-				"b": "País Vasco.",
-				"c": "Aragón."
-			},
-			"answer": "c"
+			"question": "Huesca, Teruel y Zaragoza forman parte de la comunidad autónoma de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Cataluña.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "PaísVasco.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Aragón.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3012",
-			"questionText": "¿En qué comunidad autónoma se encuentra la ciudad de Logroño?",
-			"options": {
-				"a": "La Rioja.",
-				"b": "Castilla y León.",
-				"c": "País Vasco."
-			},
-			"answer": "a"
+			"question": "¿En qué comunidad autónoma se encuentra la ciudad de Logroño?",
+			"options": [
+				{
+					"id": "a",
+					"option": "La Rioja.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Castilla y León.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "País Vasco.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3013",
-			"questionText": "¿Cuál es la sede de las instituciones de la comunidad autónoma del País Vasco?",
-			"options": {
-				"a": "Bilbao.",
-				"b": "Vitoria-Gasteiz.",
-				"c": "San Sebastián."
-			},
-			"answer": "b"
+			"question": "¿Cuál es la sede de las instituciones de la comunidad autónoma del País Vasco?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Bilbao.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Vitoria-Gasteiz.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "San Sebastián.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3014",
-			"questionText": "La sede de las instituciones/capital de Castilla-La Mancha está en...",
-			"options": {
-				"a": "Ciudad Real.",
-				"b": "Toledo.",
-				"c": "Guadalajara."
-			},
-			"answer": "b"
+			"question": "La sede de las instituciones/capital de Castilla-La Mancha está en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ciudad Real.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Toledo.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Guadalajara.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3015",
-			"questionText": "En la costa norte de África se encuentran las ciudades autónomas de Ceuta y...",
-			"options": {
-				"a": "Almería.",
-				"b": "Melilla.",
-				"c": "Cádiz."
-			},
-			"answer": "b"
+			"question": "En la costa norte de África se encuentran las ciudades autónomas de Ceuta y...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Almería.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Melilla.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Cádiz.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3016",
-			"questionText": "En el estrecho de Gibraltar se unen el océano Atlántico y el mar...",
-			"options": {
-				"a": "Cantábrico.",
-				"b": "Menor.",
-				"c": "Mediterráneo."
-			},
-			"answer": "c"
+			"question": "En el estrecho de Gibraltar se unen el océano Atlántico y el mar...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Cantábrico.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Menor.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Mediterráneo.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3017",
-			"questionText": "El Principado de Asturias limita al norte con...",
-			"options": {
-				"a": "el océano Atlántico.",
-				"b": "el mar Mediterráneo.",
-				"c": "el mar Cantábrico."
-			},
-			"answer": "c"
+			"question": "El Principado de Asturias limita al norte con...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el océano Atlántico.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el mar Mediterráneo.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el mar Cantábrico.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3018",
-			"questionText": "La Región de Murcia limita al este con...",
-			"options": {
-				"a": "el mar Mediterráneo.",
-				"b": "el océano Atlántico.",
-				"c": "el mar Cantábrico."
-			},
-			"answer": "a"
+			"question": "La Región de Murcia limita al este con...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el mar Mediterráneo.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el océano Atlántico.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el mar Cantábrico.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3019",
-			"questionText": "En el centro de la península ibérica, los inviernos son fríos, los veranos calurosos y llueve poco. Este clima es...",
-			"options": {
-				"a": "continental.",
-				"b": "oceánico.",
-				"c": "subtropical."
-			},
-			"answer": "a"
+			"question": "En el centro de la península ibérica, los inviernos son fríos, los veranos calurosos y llueve poco. Este clima es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "continental.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "oceánico.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "subtropical.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3020",
-			"questionText": "El clima de Canarias se denomina...",
-			"options": {
-				"a": "mediterráneo.",
-				"b": "oceánico.",
-				"c": "subtropical."
-			},
-			"answer": "c"
+			"question": "El clima de Canarias se denomina...",
+			"options": [
+				{
+					"id": "a",
+					"option": "mediterráneo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "oceánico.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "subtropical.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3021",
-			"questionText": "El principal río que desemboca en el mar Mediterráneo es el...",
-			"options": {
-				"a": "Ebro.",
-				"b": "Duero.",
-				"c": "Tajo."
-			},
-			"answer": "a"
+			"question": "El principal río que desemboca en el mar Mediterráneo es el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Ebro.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Duero.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Tajo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3022",
-			"questionText": "¿Cuántos parques nacionales hay en España?",
-			"options": {
-				"a": "10.",
-				"b": "12.",
-				"c": "15."
-			},
-			"answer": "c"
+			"question": "¿Cuántos parques nacionales hay en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "10.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "12.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "15.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "3023",
-			"questionText": "La extensa llanura situada en la zona central de España se denomina...",
-			"options": {
-				"a": "península.",
-				"b": "meseta.",
-				"c": "sierra."
-			},
-			"answer": "b"
+			"question": "La extensa llanura situada en la zona central de España se denomina...",
+			"options": [
+				{
+					"id": "a",
+					"option": "península.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "meseta.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "sierra.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "3024",
-			"questionText": "¿Qué sistema montañoso separa España de Francia?",
-			"options": {
-				"a": "Picos de Europa.",
-				"b": "Pirineos.",
-				"c": "Sierra de Gredos."
-			},
-			"answer": "b"
+			"question": "¿Qué sistema montañoso separa España de Francia?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Picos de Europa.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Pirineos.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Sierra de Gredos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4001",
-			"questionText": "Los personajes principales de la novela el Quijote son Don Quijote y...",
-			"options": {
-				"a": "Don Juan.",
-				"b": "Sancho Panza.",
-				"c": "El Cid."
-			},
-			"answer": "b"
+			"question": "Los personajes principales de la novela el Quijote son Don Quijote y...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Don Juan.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Sancho Panza.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "El Cid.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4002",
-			"questionText": "Miguel Hernández era un famoso... español nacido en Orihuela.",
-			"options": {
-				"a": "cantante",
-				"b": "actor",
-				"c": "poeta"
-			},
-			"answer": "c"
+			"question": "Miguel Hernández era un famoso... español nacido en Orihuela.",
+			"options": [
+				{
+					"id": "a",
+					"option": "cantante",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "actor",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "poeta",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4003",
-			"questionText": "¿Cuál de estas tres obras literarias es de Federico García Lorca?",
-			"options": {
-				"a": "El Quijote.",
-				"b": "El Cantar de Mio Cid.",
-				"c": "La casa de Bernarda Alba."
-			},
-			"answer": "c"
+			"question": "¿Cuál de estas tres obras literarias es de Federico García Lorca?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El Quijote.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El Cantar de Mio Cid.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "La casa de Bernarda Alba.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4004",
-			"questionText": "¿Cuál es la profesión de Enrique Iglesias?",
-			"options": {
-				"a": "Cantante.",
-				"b": "Guitarrista.",
-				"c": "Actor."
-			},
-			"answer": "a"
+			"question": "¿Cuál es la profesión de Enrique Iglesias?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Cantante.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Guitarrista.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Actor.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4005",
-			"questionText": "Uno de los compositores españoles de música clásica más famosos es...",
-			"options": {
-				"a": "Plácido Domingo.",
-				"b": "Josep Carreras.",
-				"c": "Manuel de Falla."
-			},
-			"answer": "c"
+			"question": "Uno de los compositores españoles de música clásica más famosos es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Plácido Domingo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Josep Carreras.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Manuel de Falla.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4006",
-			"questionText": "¿Cuál es la profesión de Penélope Cruz?",
-			"options": {
-				"a": "Cantante.",
-				"b": "Guitarrista.",
-				"c": "Actriz."
-			},
-			"answer": "c"
+			"question": "¿Cuál es la profesión de Penélope Cruz?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Cantante.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Guitarrista.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Actriz.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4007",
-			"questionText": "El Ballet Nacional de España realiza...",
-			"options": {
-				"a": "danza clásica.",
-				"b": "danza contemporánea.",
-				"c": "distintos estilos de danza."
-			},
-			"answer": "c"
+			"question": "El Ballet Nacional de España realiza...",
+			"options": [
+				{
+					"id": "a",
+					"option": "danza clásica.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "danza contemporánea.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "distintos estilos de danza.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4008",
-			"questionText": "... es una famosa figura del pensamiento español.",
-			"options": {
-				"a": "Montserrat Caballé",
-				"b": "María Zambrano",
-				"c": "Margarita Salas"
-			},
-			"answer": "b"
+			"question": "... es una famosa figura del pensamiento español.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Montserrat Caballé",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "María Zambrano",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Margarita Salas",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4009",
-			"questionText": "... es responsable de los bienes del Estado que pertenecían a la Corona española.",
-			"options": {
-				"a": "Patrimonio Nacional",
-				"b": "Patrimonio Real",
-				"c": "Patrimonio Universal"
-			},
-			"answer": "a"
+			"question": "... es responsable de los bienes del Estado que pertenecían a la Corona española.",
+			"options": [
+				{
+					"id": "a",
+					"option": "Patrimonio Nacional",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Patrimonio Real",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Patrimonio Universal",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4010",
-			"questionText": "¿En qué ciudad de España se encuentra una famosa mezquita, patrimonio de la Humanidad?",
-			"options": {
-				"a": "Santiago de Compostela.",
-				"b": "Madrid.",
-				"c": "Córdoba."
-			},
-			"answer": "c"
+			"question": "¿En qué ciudad de España se encuentra una famosa mezquita, patrimonio de la Humanidad?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Santiago de Compostela.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Madrid.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Córdoba.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4011",
-			"questionText": "¿En qué ciudad de España se encuentra La Alhambra, que es patrimonio de la Humanidad?",
-			"options": {
-				"a": "Sevilla.",
-				"b": "Córdoba.",
-				"c": "Granada."
-			},
-			"answer": "c"
+			"question": "¿En qué ciudad de España se encuentra La Alhambra, que es patrimonio de la Humanidad?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Sevilla.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Córdoba.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Granada.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4012",
-			"questionText": "¿En qué ciudad se encuentra el monumento La Sagrada Familia de Gaudí?",
-			"options": {
-				"a": "En Barcelona.",
-				"b": "En Granada.",
-				"c": "En Madrid."
-			},
-			"answer": "a"
+			"question": "¿En qué ciudad se encuentra el monumento La Sagrada Familia de Gaudí?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En Barcelona.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "En Granada.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "En Madrid.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4013",
-			"questionText": "Francisco de Goya era un famoso... español.",
-			"options": {
-				"a": "pintor",
-				"b": "músico",
-				"c": "escritor"
-			},
-			"answer": "a"
+			"question": "Francisco de Goya era un famoso... español.",
+			"options": [
+				{
+					"id": "a",
+					"option": "pintor",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "músico",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "escritor",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4014",
-			"questionText": "Salvador Dalí era...",
-			"options": {
-				"a": "escritor.",
-				"b": "director de cine.",
-				"c": "pintor."
-			},
-			"answer": "c"
+			"question": "Salvador Dalí era...",
+			"options": [
+				{
+					"id": "a",
+					"option": "escritor.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "director de cine.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "pintor.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4015",
-			"questionText": "Joaquín Sorolla es un famoso... nacido en Valencia.",
-			"options": {
-				"a": "escritor",
-				"b": "futbolista",
-				"c": "pintor"
-			},
-			"answer": "c"
+			"question": "Joaquín Sorolla es un famoso... nacido en Valencia.",
+			"options": [
+				{
+					"id": "a",
+					"option": "escritor",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "futbolista",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "pintor",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4016",
-			"questionText": "¿Cuál de estos museos está en Bilbao?",
-			"options": {
-				"a": "El Museo Nacional Centro de Arte Reina Sofía.",
-				"b": "El Museo Thyssen-Bornemisza.",
-				"c": "El Museo Guggenheim."
-			},
-			"answer": "c"
+			"question": "¿Cuál de estos museos está en Bilbao?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El Museo Nacional Centro de Arte Reina Sofía.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El Museo Thyssen-Bornemisza.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El Museo Guggenheim.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4017",
-			"questionText": "¿Qué es el Camino de Santiago?",
-			"options": {
-				"a": "Una obra de teatro.",
-				"b": "Una ciudad de Galicia.",
-				"c": "Una ruta de peregrinación."
-			},
-			"answer": "c"
+			"question": "¿Qué es el Camino de Santiago?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Una obra de teatro.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Una ciudad de Galicia.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Una ruta de peregrinación.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4018",
-			"questionText": "¿En qué año conquistaron Granada los Reyes Católicos?",
-			"options": {
-				"a": "En 1452.",
-				"b": "En 1472.",
-				"c": "En 1492."
-			},
-			"answer": "c"
+			"question": "¿En qué año conquistaron Granada los Reyes Católicos?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En 1452.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "En 1472.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "En 1492.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4019",
-			"questionText": "La guerra de la independencia en España transcurrió entre los años...",
-			"options": {
-				"a": "1701 y 1715.",
-				"b": "1808 y 1814.",
-				"c": "1936 y 1939."
-			},
-			"answer": "b"
+			"question": "La guerra de la independencia en España transcurrió entre los años...",
+			"options": [
+				{
+					"id": "a",
+					"option": "1701 1715.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "1808 1814.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "1936 1939.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4020",
-			"questionText": "¿En qué fecha entró en vigor el Tratado de adhesión por el que España se integró en la Comunidad Económica Europea (hoy Unión Europea?",
-			"options": {
-				"a": "26 de julio de 1977.",
-				"b": "El 12 de junio de 1985.",
-				"c": "El 1 de enero de 1986."
-			},
-			"answer": "c"
+			"question": "¿En qué fecha entró en vigor el Tratado de adhesión por el que España se integró en la Comunidad Económica Europea (hoyUnión Europea?",
+			"options": [
+				{
+					"id": "a",
+					"option": "26 de julio de 1977.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El 12 de junio de 1985.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El 1 de enero de 1986.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4021",
-			"questionText": "El rey de España que gobernó la mayor extensión conocida de territorios en el mundo fue...",
-			"options": {
-				"a": "Felipe II.",
-				"b": "Felipe III.",
-				"c": "Felipe IV."
-			},
-			"answer": "a"
+			"question": "El rey de España que gobernó la mayor extensión conocida de territorios en el mundo fue...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Felipe II.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Felipe III.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Felipe IV.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4022",
-			"questionText": "¿Quién fue nombrado primer presidente de Gobierno después de la aprobación de la Constitución española de 1978?",
-			"options": {
-				"a": "Felipe González.",
-				"b": "Adolfo Suárez.",
-				"c": "Leopoldo Calvo Sotelo."
-			},
-			"answer": "b"
+			"question": "¿Quién fue nombrado primer presidente de Gobierno después de la aprobación de la Constitución española de 1978?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Felipe González.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Adolfo Suárez.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Leopoldo Calvo Sotelo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4023",
-			"questionText": "Desde 1975 y hasta junio de 2014, el rey de España era...",
-			"options": {
-				"a": "Juan Carlos I.",
-				"b": "Felipe VI.",
-				"c": "Alfonso XIII."
-			},
-			"answer": "a"
+			"question": "Desde 1975 y hasta junio de 2014, el rey de España era...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Juan Carlos I.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Felipe VI.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Alfonso XIII.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4024",
-			"questionText": "¿Qué toman los españoles la noche del 31 de diciembre para celebrar el cambio de año?",
-			"options": {
-				"a": "Lentejas.",
-				"b": "Uvas.",
-				"c": "Aceitunas."
-			},
-			"answer": "b"
+			"question": "¿Qué toman los españoles la noche del 31 de diciembre para celebrar el cambio de año?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Lentejas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Uvas.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Aceitunas.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4025",
-			"questionText": "¿Qué ciudad es famosa por sus Fallas?",
-			"options": {
-				"a": "Pontevedra.",
-				"b": "Segovia.",
-				"c": "Valencia."
-			},
-			"answer": "c"
+			"question": "¿Qué ciudad es famosa por sus Fallas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Pontevedra.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Segovia.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Valencia.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4026",
-			"questionText": "¿Cuál es la fiesta más famosa en Cádiz y Canarias?",
-			"options": {
-				"a": "El carnaval.",
-				"b": "La Semana Santa.",
-				"c": "Los sanfermines."
-			},
-			"answer": "a"
+			"question": "¿Cuál es la fiesta más famosa en Cádiz y Canarias?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El carnaval.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "La Semana Santa.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Los san fermines.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4027",
-			"questionText": "¿Qué ciudad es famosa por su Feria de Abril?",
-			"options": {
-				"a": "Sevilla.",
-				"b": "Segovia.",
-				"c": "Salamanca."
-			},
-			"answer": "a"
+			"question": "¿Qué ciudad es famosa por su Feria de Abril?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Sevilla.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Segovia.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Salamanca.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4028",
-			"questionText": "¿Qué tres culturas convivieron en la España medieval?",
-			"options": {
-				"a": "La cristiana, la judía y musulmana.",
-				"b": "La fenicia, la judía y la musulmana.",
-				"c": "La griega, la cristiana y la judía."
-			},
-			"answer": "a"
+			"question": "¿Qué tres culturas convivieron en la España medieval?",
+			"options": [
+				{
+					"id": "a",
+					"option": "La cristiana, la judía y musulmana.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "La fenicia, la judía y la musulmana.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "La griega, la cristiana y la judía.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4029",
-			"questionText": "El 6 de diciembre se celebra en España...",
-			"options": {
-				"a": "el Día de la Constitución.",
-				"b": "la llegada de Colón a América.",
-				"c": "el Día del Libro."
-			},
-			"answer": "a"
+			"question": "El 6 de diciembre se celebra en España...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el Día de la Constitución.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "la llegada de Colón a América.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Día del Libro.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4030",
-			"questionText": "Juan Ramón Jiménez recibió en 1956 el Premio Nobel de...",
-			"options": {
-				"a": "Medicina.",
-				"b": "Física.",
-				"c": "Literatura."
-			},
-			"answer": "c"
+			"question": "Juan Ramón Jiménez recibió en 1956 el Premio Nobel de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Medicina.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Física.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Literatura.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4031",
-			"questionText": "¿Quién recibió el Premio Nobel de Fisiología y Medicina en 1959?",
-			"options": {
-				"a": "Santiago Ramón y Cajal.",
-				"b": "Juan Ramón Jiménez.",
-				"c": "Severo Ochoa."
-			},
-			"answer": "c"
+			"question": "¿Quién recibió el Premio Nobel de Fisiología y Medicina en 1959?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Santiago Ramón y Cajal.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Juan Ramón Jiménez.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Severo Ochoa.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "4032",
-			"questionText": "El Cervantes es un premio que se concede a... de España e Hispanoamérica.",
-			"options": {
-				"a": "actores",
-				"b": "escritores",
-				"c": "pintores"
-			},
-			"answer": "b"
+			"question": "El Cervantes es un premio que se concede a... de España e Hispanoamérica.",
+			"options": [
+				{
+					"id": "a",
+					"option": "actores",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "escritores",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "pintores",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4033",
-			"questionText": "Los Premios Goya están relacionados con...",
-			"options": {
-				"a": "el cine.",
-				"b": "la literatura.",
-				"c": "la pintura."
-			},
-			"answer": "a"
+			"question": "Los Premios Goya están relacionados con...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el cine.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "la literatura.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "la pintura.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4034",
-			"questionText": "¿Qué premios promueven en España los valores científicos, culturales y humanísticos que son patrimonio universal?",
-			"options": {
-				"a": "Los Premios Cervantes.",
-				"b": "Los Premios Princesa de Asturias.",
-				"c": "Los Premios Goya."
-			},
-			"answer": "b"
+			"question": "¿Qué premios promueven en España los valores científicos, culturales y humanísticos que son patrimonio universal?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Los Premios Cervantes.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Los Premios Princesa deAsturias.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Los Premios Goya.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4035",
-			"questionText": "¿Dónde se desarrolla el Festival Internacional de Teatro Clásico de Mérida?",
-			"options": {
-				"a": "En el Teatro romano.",
-				"b": "En la Ciudad deportiva.",
-				"c": "En el Museo Nacional de Arte Romano."
-			},
-			"answer": "a"
+			"question": "¿Dónde se desarrolla el Festival Internacional de Teatro Clásico de Mérida?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En el Teatro romano.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "En la Ciudad deportiva.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "En el Museo Nacional de Arte Romano.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "4036",
-			"questionText": "¿Cuál de estos deportes tiene una competición denominada «La Vuelta»?",
-			"options": {
-				"a": "El ciclismo.",
-				"b": "El fútbol.",
-				"c": "El tenis."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estos deportes tiene una competición denominada «La Vuelta»?",
+			"options": [
+				{
+					"id": "a",
+					"option": "El ciclismo.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "El fútbol.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "El tenis.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5001",
-			"questionText": "¿Qué cuerpo de seguridad gestiona la expedición del DNI?",
-			"options": {
-				"a": "La Policía Nacional.",
-				"b": "La Guardia Civil.",
-				"c": "La Policía Local."
-			},
-			"answer": "a"
+			"question": "¿Qué cuerpo de seguridad gestiona la expedición del DNI?",
+			"options": [
+				{
+					"id": "a",
+					"option": "La Policía Nacional.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "La Guardia Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "La Policía Local.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5002",
-			"questionText": "Los trámites relativos al permiso de conducir se realizan en...",
-			"options": {
-				"a": "las comisarías de policía.",
-				"b": "las delegaciones de Gobierno.",
-				"c": "las jefaturas de tráfico."
-			},
-			"answer": "c"
+			"question": "Los trámites relativos al permiso de conducir se realizan en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "las comisarías de policía.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "las delegaciones de Gobierno.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "las jefaturas de tráfico.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5003",
-			"questionText": "¿A qué edad es obligatorio tener el DNI?",
-			"options": {
-				"a": "A los 14 años.",
-				"b": "A los 16 años.",
-				"c": "A los 18 años."
-			},
-			"answer": "a"
+			"question": "¿A qué edad es obligatorio tener el DNI?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A los 14 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "A los 16 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "A los 18 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5004",
-			"questionText": "¿A qué edad se puede sacar el carné de conducir en España?",
-			"options": {
-				"a": "A los 16 años.",
-				"b": "A los 18 años.",
-				"c": "A los 21 años."
-			},
-			"answer": "b"
+			"question": "¿A qué edad se puede sacar el carné de conducir en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A los 16 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "A los 18 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "A los 21 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5005",
-			"questionText": "Para solicitar el pasaporte hay que presentar...",
-			"options": {
-				"a": "fotografía reciente y partida de nacimiento.",
-				"b": "DNI y partida de nacimiento.",
-				"c": "DNI y fotografía reciente."
-			},
-			"answer": "c"
+			"question": "Para solicitar el pasaporte hay que presentar...",
+			"options": [
+				{
+					"id": "a",
+					"option": "fotografía reciente y partida de nacimiento.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "DNI y partida de nacimiento.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "DNI y fotografía reciente.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5006",
-			"questionText": "El DNI o NIE, una fotografía reciente y un informe de aptitud psicológica son necesarios para solicitar el...",
-			"options": {
-				"a": "carné de conducir.",
-				"b": "pasaporte.",
-				"c": "número de identificación fiscal."
-			},
-			"answer": "a"
+			"question": "El DNI o NIE, una fotografía reciente y un informe de aptitud psicológica son necesarios para solicitar el...",
+			"options": [
+				{
+					"id": "a",
+					"option": "carné de conducir.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "pasaporte.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "número de identificación fiscal.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5007",
-			"questionText": "La tramitación del libro de familia se realiza en...",
-			"options": {
-				"a": "el Registro Civil.",
-				"b": "la Seguridad Social.",
-				"c": "las comisarías de policía."
-			},
-			"answer": "a"
+			"question": "La tramitación del libro de familia se realiza en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "elRegistro Civil.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "la Seguridad Social.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "las comisarías de policía.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5008",
-			"questionText": "La solicitud de nacionalidad debe presentarse en...",
-			"options": {
-				"a": "el Ministerio de Asuntos Exteriores de Cooperación.",
-				"b": "una oficina del Registro y Civil.",
-				"c": "el Ministerio de Justicia."
-			},
-			"answer": "c"
+			"question": "La solicitud de nacionalidad debe presentarse en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "elMinisterio de Asuntos Exteriores de Cooperación.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "una oficina del Registro y Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el Ministerio de Justicia.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5009",
-			"questionText": "¿Para qué gestión es necesario cumplir el siguiente requisito: «Haber residido en España durante 10 años de forma legal, continuada e inmediatamente anterior a la solicitud»?",
-			"options": {
-				"a": "Para solicitar una beca de estudios.",
-				"b": "Para solicitar la nacionalidad española.",
-				"c": "Para solicitar la ayuda por desempleo."
-			},
-			"answer": "a"
+			"question": "¿Para qué gestión es necesario cumplir el siguiente requisito: «Haber residido en España durante 10 años de forma legal, continuada e inmediatamente anterior a la solicitud»?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Para solicitar la nacionalidad española.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Para solicitar una beca de estudios.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Para solicitar la ayuda por desempleo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5010",
-			"questionText": "¿A qué país puede viajar con su DNI en vigor?",
-			"options": {
-				"a": "A Alemania.",
-				"b": "A Ecuador.",
-				"c": "A Marruecos."
-			},
-			"answer": "a"
+			"question": "¿A qué país puede viajar con su DNI en vigor?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A Alemania.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "A Ecuador.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "A Marruecos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5011",
-			"questionText": "La certificación de nacimiento o nacionalidad, una fotografía reciente y el certificado de empadronamiento son necesarios para solicitar...",
-			"options": {
-				"a": "el carné de conducir.",
-				"b": "el DNI.",
-				"c": "la tarjeta sanitaria."
-			},
-			"answer": "b"
+			"question": "La certificación de nacimiento o nacionalidad, una fotografía reciente y el certificado de empadronamiento son necesarios para solicitar...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el carné de conducir.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el DNI.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "la tarjeta sanitaria.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5012",
-			"questionText": "El certificado de empadronamiento se solicita en...",
-			"options": {
-				"a": "la oficina de Registro Civil.",
-				"b": "el ayuntamiento.",
-				"c": "la asociación de vecinos."
-			},
-			"answer": "b"
+			"question": "El certificado de empadronamiento se solicita en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la oficina de Registro Civil.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el ayuntamiento.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "la asociación de vecinos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5013",
-			"questionText": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
-			"options": {
-				"a": "IBI (Impuesto sobre Bienes Inmuebles).",
-				"b": "ITV (Inspección Técnica de Vehículos).",
-				"c": "ITE (Inspección Técnica de edificios)."
-			},
-			"answer": "b"
+			"question": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
+			"options": [
+				{
+					"id": "a",
+					"option": "IBI (Impuesto sobreBienes Inmuebles).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "ITV (Inspección Técnica de Vehículos).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "ITE (Inspección Técnica de edificios).",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5014",
-			"questionText": "El IVTM (Impuesto de Vehículos de Tracción Mecánica) es el impuesto que pagan...",
-			"options": {
-				"a": "los propietarios de coches aptos para la circulación.",
-				"b": "las personas que obtienen el permiso de conducir.",
-				"c": "los viajeros que utilizan el transporte urbano."
-			},
-			"answer": "a"
+			"question": "El IVTM (Impuesto de Vehículos de Tracción Mecánica) es el impuesto que pagan...",
+			"options": [
+				{
+					"id": "a",
+					"option": "los propietarios de coches aptos para la circulación.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "las personas que obtienen el permiso de conducir.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los viajeros que utilizan el transporte urbano.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5015",
-			"questionText": "¿Cómo se denomina la unión jurídica de dos personas que crea un vínculo conyugal mediante ciertos ritos o formalidades legales, con obligaciones y derechos?",
-			"options": {
-				"a": "Pareja de hecho.",
-				"b": "Matrimonio.",
-				"c": "Pareja formal."
-			},
-			"answer": "b"
+			"question": "¿Cómo se denomina la unión jurídica de dos personas que crea un vínculo conyugal mediante ciertos ritos o formalidades legales, con obligaciones y derechos?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Pareja de hecho.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Matrimonio.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Pareja formal.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5016",
-			"questionText": "¿Cuál de las siguientes familias es una familia numerosa en España?",
-			"options": {
-				"a": "Una pareja con 1hijo.",
-				"b": "Una pareja con 2 hijos.",
-				"c": "Una pareja con 3 hijos."
-			},
-			"answer": "c"
+			"question": "¿Cuál de las siguientes familias es una familia numerosa en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Una pareja con 1hijo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Una pareja con 2 hijos.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Una pareja con 3 hijos.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5017",
-			"questionText": "La baja por maternidad en España, de carácter general por un solo hijo, puede ser de hasta...",
-			"options": {
-				"a": "10 semanas.",
-				"b": "16 semanas.",
-				"c": "20 semanas."
-			},
-			"answer": "b"
+			"question": "La baja por maternidad en España, de carácter general por un solo hijo, puede ser de hasta...",
+			"options": [
+				{
+					"id": "a",
+					"option": "10 semanas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "16 semanas.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "20 semanas.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5018",
-			"questionText": "En España, los matrimonios con hijos que se divorcian pueden tener su custodia...",
-			"options": {
-				"a": "compartida.",
-				"b": "dividida.",
-				"c": "exclusiva."
-			},
-			"answer": "a"
+			"question": "En España, los matrimonios con hijos que se divorcian pueden tener su custodia...",
+			"options": [
+				{
+					"id": "a",
+					"option": "compartida.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "dividida.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "exclusiva.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5019",
-			"questionText": "Los ... de una vivienda pagan anualmente el Impuesto sobre Bienes Inmuebles (IBI).",
-			"options": {
-				"a": "inquilinos",
-				"b": "propietarios",
-				"c": "inquilinos y propietarios"
-			},
-			"answer": "b"
+			"question": "Los ... de una vivienda pagan anualmente el Impuesto sobre Bienes Inmuebles (IBI).",
+			"options": [
+				{
+					"id": "a",
+					"option": "inquilinos",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "propietarios",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "inquilinos y propietarios",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5020",
-			"questionText": "¿A cuál de estas tres acciones no tiene derecho el inquilino de una vivienda en alquiler?",
-			"options": {
-				"a": "Tener un recibo del alquiler del mes y de todos los gastos.",
-				"b": "Hacer los cambios y obras que quiera en la casa.",
-				"c": "Recuperar la fianza al final del contrato de alquiler."
-			},
-			"answer": "b"
+			"question": "¿A cuál de estas tres acciones no tiene derecho el inquilino de una vivienda en alquiler?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Tener un recibo del alquiler del mes y de todos los gastos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Hacer los cambios y obras que quiera en la casa.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Recuperar la fianza al final del contrato de alquiler.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5021",
-			"questionText": "¿Cuál de estas acciones no debe hacer el inquilino de una vivienda de alquiler?",
-			"options": {
-				"a": "Usar la vivienda para actividades comerciales.",
-				"b": "Cuidar la vivienda y pagar los daños que haga.",
-				"c": "Pagar los gastos de agua, luz y gas."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas acciones no debe hacer el inquilino de una vivienda de alquiler?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Usar la vivienda para actividades comerciales.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Cuidar la vivienda y pagar los daños que haga.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Pagar los gastos de agua, luz y gas.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5022",
-			"questionText": "¿Cuál de las siguientes conductas no es adecuada ni responsable en una comunidad de vecinos?",
-			"options": {
-				"a": "Reducir el nivel de ruido entre las 22:00 y las 8:00 h.",
-				"b": "Depositar la basura en bolsas bien cerradas.",
-				"c": "Lavar coches y motos en el garaje."
-			},
-			"answer": "c"
+			"question": "¿Cuál de las siguientes conductas no es adecuada ni responsable en una comunidad de vecinos?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Reducir el nivel de ruido entre las 22:00 y las 8:00 h.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Depositar la basura en bolsas bien cerradas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Lavar coches y motos en el garaje.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5023",
-			"questionText": "En España, los propietarios de los perros deben identificarlos con...",
-			"options": {
-				"a": "un collar.",
-				"b": "un microchip.",
-				"c": "una cadena."
-			},
-			"answer": "b"
+			"question": "En España, los propietarios de los perros deben identificarlos con...",
+			"options": [
+				{
+					"id": "a",
+					"option": "un collar.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "un microchip.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "una cadena.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5024",
-			"questionText": "En un menú, una tarta de almendra es...",
-			"options": {
-				"a": "primer plato.",
-				"b": "segundo plato.",
-				"c": "postre."
-			},
-			"answer": "c"
+			"question": "En un menú, una tarta de almendra es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "primer plato.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "segundo plato.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "postre.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5025",
-			"questionText": "La Rioja es una región famosa por...",
-			"options": {
-				"a": "el cava.",
-				"b": "la sidra.",
-				"c": "el vino."
-			},
-			"answer": "c"
+			"question": "La Rioja es una región famosa por...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el cava.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "la sidra.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el vino.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5026",
-			"questionText": "¿Qué comida típica española tiene como principal ingrediente el tomate?",
-			"options": {
-				"a": "La paella.",
-				"b": "El gazpacho.",
-				"c": "el cocido."
-			},
-			"answer": "b"
+			"question": "¿Qué comida típica española tiene como principal ingrediente el tomate?",
+			"options": [
+				{
+					"id": "a",
+					"option": "La paella.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "El gazpacho.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el cocido.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5027",
-			"questionText": "El turrón y el mazapán son dulces típicos de...",
-			"options": {
-				"a": "Navidad.",
-				"b": "Semana Santa.",
-				"c": "San Juan."
-			},
-			"answer": "a"
+			"question": "El turrón y el mazapán son dulces típicos de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Navidad.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Semana Santa.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "San Juan.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5028",
-			"questionText": "El menú de tres platos que ofrecen los restaurantes de lunes a viernes al mediodía por un precio especial se llama...",
-			"options": {
-				"a": "menú especial.",
-				"b": "menú del día.",
-				"c": "menú infantil."
-			},
-			"answer": "b"
+			"question": "El menú de tres platos que ofrecen los restaurantes de lunes a viernes al mediodía por un precio especial se llama...",
+			"options": [
+				{
+					"id": "a",
+					"option": "menú especial.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "menú del día.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "menú infantil.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5029",
-			"questionText": "La moneda de curso legal en España es, desde el año 2002, ...",
-			"options": {
-				"a": "la peseta.",
-				"b": "el peso.",
-				"c": "el euro."
-			},
-			"answer": "c"
+			"question": "La moneda de curso legal en España es, desde el año 2002, ...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la peseta.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el peso.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "el euro.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5030",
-			"questionText": "El organismo que protege a los consumidores y usuarios es la...",
-			"options": {
-				"a": "Agencia Española de Protección de Datos.",
-				"b": "Agencia Española de Consumo, Seguridad Alimentaria y Nutrición.",
-				"c": "Agencia Española de Medicamentos y Productos Sanitarios."
-			},
-			"answer": "b"
+			"question": "El organismo que protege a los consumidores y usuarios es la...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Agencia Española de Protección de Datos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Agencia Española de Consumo, Seguridad Alimentaria y Nutrición.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Agencia Española de Medicamentos y Productos Sanitarios.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5031",
-			"questionText": "¿Cómo se denomina la resolución de la Dirección Nacional de Empleo por la que se fijan anualmente las fiestas laborables para cada año?",
-			"options": {
-				"a": "Calendario fiscal.",
-				"b": "Calendario laboral.",
-				"c": "Calendario español."
-			},
-			"answer": "b"
+			"question": "¿Cómo se denomina la resolución de la Dirección Nacional de Empleo por la que se fijan anualmente las fiestas laborables para cada año?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Calendario fiscal.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Calendario laboral.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Calendario español.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5032",
-			"questionText": "El horario de Canarias, con respecto a la Península, tiene...",
-			"options": {
-				"a": "dos horas menos.",
-				"b": "una hora menos.",
-				"c": "una hora más."
-			},
-			"answer": "b"
+			"question": "El horario de Canarias, con respecto a la Península, tiene...",
+			"options": [
+				{
+					"id": "a",
+					"option": "dos horas menos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "una hora menos.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "una hora más.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5033",
-			"questionText": "En España hay 14 días festivos al año, nacionales, autonómicos y...",
-			"options": {
-				"a": "regionales.",
-				"b": "provinciales.",
-				"c": "locales."
-			},
-			"answer": "c"
+			"question": "En España hay 14 días festivos al año, nacionales, autonómicos y...",
+			"options": [
+				{
+					"id": "a",
+					"option": "regionales.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "provinciales.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "locales.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5034",
-			"questionText": "En España, en general, los bancos tienen un horario de atención al público de lunes a viernes...",
-			"options": {
-				"a": "de 8:30 a 14:00 h, sin pausa.",
-				"b": "de 8:30 a 17:00 h, sin pausa.",
-				"c": "de 8:30 a 19:00 h, con pausa."
-			},
-			"answer": "a"
+			"question": "En España, en general, los bancos tienen un horario de atención al público de lunes a viernes...",
+			"options": [
+				{
+					"id": "a",
+					"option": "de 8:30 a 14:00 h, sin pausa.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "de 8:30 a 17:00 h, sin pausa.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "de 8:30 a19:00 h, con pausa.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5035",
-			"questionText": "¿Cuál de estas etapas educativas no es obligatoria en España?",
-			"options": {
-				"a": "Infantil (hasta los 6 años).",
-				"b": "Primaria (entre 6 y 12 años).",
-				"c": "Secundaria ESO (entre 12 y 16 años)."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas etapas educativas no es obligatoria en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Infantil (hasta los 6 años).",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Primaria (entre 6 y 12 años).",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Secundaria ESO (entre 12 y 16 años).",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5036",
-			"questionText": "En España hay pruebas especiales para el acceso de los adultos a la universidad a partir de los...",
-			"options": {
-				"a": "18 años.",
-				"b": "23 años.",
-				"c": "25 años."
-			},
-			"answer": "c"
+			"question": "En España hay pruebas especiales para el acceso de los adultos a la universidad a partir de los...",
+			"options": [
+				{
+					"id": "a",
+					"option": "18 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "23 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "25 años.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5037",
-			"questionText": "La ESO (Enseñanza Secundaria Obligatoria) es la enseñanza a alumnos...",
-			"options": {
-				"a": "de 6 a 16 años.",
-				"b": "de 12 a 16 años.",
-				"c": "de 14 a 16 años."
-			},
-			"answer": "b"
+			"question": "La ESO (Enseñanza Secundaria Obligatoria) es la enseñanza a alumnos...",
+			"options": [
+				{
+					"id": "a",
+					"option": "de 6 a 16 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "de 12 a 16 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "de 14 a 16 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5038",
-			"questionText": "El Bachillerato en España...",
-			"options": {
-				"a": "es obligatorio.",
-				"b": "se compone de dos cursos académicos.",
-				"c": "es la enseñanza a alumnos de 14 a 16 años."
-			},
-			"answer": "b"
+			"question": "El Bachillerato en España...",
+			"options": [
+				{
+					"id": "a",
+					"option": "es obligatorio.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "se compone de dos cursos académicos.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "es la enseñanza a alumnos de 14 a 16 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5039",
-			"questionText": "Para hacer Formación Profesional Básica es necesario...",
-			"options": {
-				"a": "haber cumplido 15 años.",
-				"b": "haber completado el Bachillerato.",
-				"c": "haber pasado un año en el extranjero."
-			},
-			"answer": "a"
+			"question": "Para hacer Formación Profesional Básica es necesario...",
+			"options": [
+				{
+					"id": "a",
+					"option": "haber cumplido 15 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "haber completado el Bachillerato.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "haber pasado un año en el extranjero.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5040",
-			"questionText": "Para hacer Formación Profesional de Grado Medio se necesita...",
-			"options": {
-				"a": "haber completado el Bachillerato.",
-				"b": "tener el título de Educación Secundaria Obligatoria (ESO).",
-				"c": "tener más de 18 años."
-			},
-			"answer": "b"
+			"question": "Para hacer Formación Profesional de GradoMedio se necesita...",
+			"options": [
+				{
+					"id": "a",
+					"option": "haber completado el Bachillerato.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "tener el título de Educación Secundaria Obligatoria (ESO).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "tener más de 18 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5041",
-			"questionText": "Los colegios públicos...",
-			"options": {
-				"a": "pueden decidir su número de plazas.",
-				"b": "pueden contratar los profesores que quieran.",
-				"c": "están financiados por el Gobierno."
-			},
-			"answer": "c"
+			"question": "Los colegios públicos...",
+			"options": [
+				{
+					"id": "a",
+					"option": "pueden decidir su número de plazas.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "pueden contratar los profesores que quieran.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "están financiados por el Gobierno.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5042",
-			"questionText": "Además de los padres y profesores, ¿quiénes intervienen en el control y gestión de los centros educativos sostenidos por la Administración?",
-			"options": {
-				"a": "Los alumnos del Educación.",
-				"b": "Los inspectores de centro.",
-				"c": "Los concejales del municipio."
-			},
-			"answer": "a"
+			"question": "Además de los padres y profesores, ¿quiénes intervienen en el control y gestión de los centros educativos sostenidos por la Administración?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Los alumnos del Educación.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Los inspectores de centro.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Los concejales del municipio.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5043",
-			"questionText": "Un colegio concertado es un colegio privado que...",
-			"options": {
-				"a": "recibe subvenciones del Gobierno.",
-				"b": "financian los padres de los alumnos.",
-				"c": "recibe dinero de los bancos."
-			},
-			"answer": "a"
+			"question": "Un colegio concertado es un colegio privado que...",
+			"options": [
+				{
+					"id": "a",
+					"option": "recibe subvenciones del Gobierno.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "financian los padres de los alumnos.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "recibe dinero de los bancos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5044",
-			"questionText": "Las EEOOII (Escuelas Oficiales de Idiomas)...",
-			"options": {
-				"a": "pertenecen a las universidades.",
-				"b": "hacen exámenes en junio y en septiembre.",
-				"c": "solo admiten alumnos adultos."
-			},
-			"answer": "b"
+			"question": "Las EEOOII (Escuelas Oficiales de Idiomas)...",
+			"options": [
+				{
+					"id": "a",
+					"option": "pertenecen a las universidades.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "hacen exámenes en junio y en septiembre.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "solo admiten alumnos adultos.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5045",
-			"questionText": "Las bibliotecas públicas son gratuitas para...",
-			"options": {
-				"a": "todos.",
-				"b": "los parados.",
-				"c": "los niños."
-			},
-			"answer": "a"
+			"question": "Las bibliotecas públicas son gratuitas para...",
+			"options": [
+				{
+					"id": "a",
+					"option": "todos.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "los parados.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "los niños.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5046",
-			"questionText": "¿Dónde se puede encontrar un servicio de préstamo?",
-			"options": {
-				"a": "En un supermercado.",
-				"b": "En una biblioteca.",
-				"c": "En un taller de coches."
-			},
-			"answer": "b"
+			"question": "¿Dónde se puede encontrar un servicio de préstamo?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En un supermercado.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "En una biblioteca.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "En un taller de coches.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5047",
-			"questionText": "¿Dónde no está permitido hacer fotos ni filmaciones de vídeo generalmente?",
-			"options": {
-				"a": "En un museo.",
-				"b": "En un supermercado.",
-				"c": "En un restaurante."
-			},
-			"answer": "a"
+			"question": "¿Dónde no está permitido hacer fotos ni filmaciones de vídeo generalmente?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En un museo.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "En un supermercado.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "En un restaurante.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5048",
-			"questionText": "¿Dónde se puede encontrar el siguiente aviso: «La entrada incluye el acceso a la colección y a las exposiciones temporales coetáneas el día de la visita»?",
-			"options": {
-				"a": "En unos grandes almacenes.",
-				"b": "En un museo.",
-				"c": "En un banco."
-			},
-			"answer": "b"
+			"question": "¿Dónde se puede encontrar el siguiente aviso: «La entrada incluye el acceso a la colección y a las exposiciones temporales coetáneas el día de la visita»?",
+			"options": [
+				{
+					"id": "a",
+					"option": "En unos grandes almacenes.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "En un museo.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "En un banco.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5049",
-			"questionText": "¿Cómo se llama el establecimiento, con un horario establecido, en el que se presta la atención médica básica (medicina de familia, pediatría y enfermería)?",
-			"options": {
-				"a": "Hospital.",
-				"b": "Centro de salud.",
-				"c": "Farmacia."
-			},
-			"answer": "b"
+			"question": "¿Cómo se llama el establecimiento, con un horario establecido, en el que se presta la atención médica básica (medicina de familia, pediatría y enfermería)?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Hospital.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Centro de salud.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Farmacia.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5050",
-			"questionText": "La tarjeta sanitaria europea permite acceder gratuitamente a la sanidad pública durante...",
-			"options": {
-				"a": "6 meses.",
-				"b": "12 meses.",
-				"c": "2 años."
-			},
-			"answer": "c"
+			"question": "La tarjeta sanitaria europea permite acceder gratuitamente a la sanidad pública durante...",
+			"options": [
+				{
+					"id": "a",
+					"option": "6 meses.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "12 meses.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "2 años.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5051",
-			"questionText": "La documentación necesaria para cambiar de centro médico es...",
-			"options": {
-				"a": "DNI, Tarjeta Sanitaria anterior y el certificado de empadronamiento.",
-				"b": "DNI, historial médico y una carta de su médico anterior.",
-				"c": "DNI, Tarjeta Sanitaria anterior e historial médico."
-			},
-			"answer": "a"
+			"question": "La documentación necesaria para cambiar de centro médico es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "DNI, Tarjeta Sanitaria anterior y el certificado de empadronamiento.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "DNI, historial médico y una carta de su médico anterior.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "DNI, Tarjeta Sanitaria anterior e historial médico.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5052",
-			"questionText": "¿Cuál es el número de teléfono único de asistencia al ciudadano ante cualquier emergencia en España?",
-			"options": {
-				"a": "060.",
-				"b": "112.",
-				"c": "911."
-			},
-			"answer": "b"
+			"question": "¿Cuál es el número de teléfono único de asistencia al ciudadano ante cualquier emergencia en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "060.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "112.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "911.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5053",
-			"questionText": "Los viajes de vacaciones para las personas mayores de 65 años los organiza...",
-			"options": {
-				"a": "el IEF (Instituto de Estudios Fiscales).",
-				"b": "el IMSERSO (Instituto de Mayores y Servicios Sociales).",
-				"c": "el ICO (Instituto de Crédito Oficial)."
-			},
-			"answer": "b"
+			"question": "Los viajes de vacaciones para las personas mayores de 65 años los organiza...",
+			"options": [
+				{
+					"id": "a",
+					"option": "el IEF (Instituto de Estudios Fiscales).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el IMSERSO (Instituto de Mayores y Servicios Sociales).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el ICO (Instituto de Crédito Oficial).",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5054",
-			"questionText": "Una persona que tiene a su cargo hijos menores de 18 años o hijos mayores de edad discapacitados, puede recibir una...",
-			"options": {
-				"a": "pensión de viudedad.",
-				"b": "prestación por desempleo.",
-				"c": "ayuda familiar."
-			},
-			"answer": "c"
+			"question": "Una persona que tiene a su cargo hijos menores de 18 años o hijos mayores de edad discapacitados, puede recibir una...",
+			"options": [
+				{
+					"id": "a",
+					"option": "pensión de viudedad.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "prestación por desempleo.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "ayuda familiar.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5055",
-			"questionText": "¿Cuál es el tiempo mínimo de cotización que da derecho a una pensión de jubilación?",
-			"options": {
-				"a": "15 años.",
-				"b": "20 años.",
-				"c": "25 años."
-			},
-			"answer": "a"
+			"question": "¿Cuál es el tiempo mínimo de cotización que da derecho a una pensión de jubilación?",
+			"options": [
+				{
+					"id": "a",
+					"option": "15 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "20 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "25 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5056",
-			"questionText": "La organización que trabaja para conseguir la integración de las personas con discapacidad visual es...",
-			"options": {
-				"a": "la ONCE.",
-				"b": "el CERMI.",
-				"c": "Cáritas."
-			},
-			"answer": "a"
+			"question": "La organización que trabaja para conseguir la integración de las personas con discapacidad visual es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la ONCE.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "el CERMI.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Cáritas.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5057",
-			"questionText": "¿Cuál de los siguientes no es un medio público de comunicación audiovisual?",
-			"options": {
-				"a": "Televisión Española.",
-				"b": "Instituto de la Cinematografía y de las Artes Audiovisuales.",
-				"c": "Radio Nacional de España."
-			},
-			"answer": "b"
+			"question": "¿Cuál de los siguientes no es un medio público de comunicación audiovisual?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Televisión Española.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Instituto de la Cinematografía y de las Artes Audiovisuales.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Radio Nacional de España.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5058",
-			"questionText": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacionales e internacionales continuamente?",
-			"options": {
-				"a": "Teledeporte.",
-				"b": "La 1.",
-				"c": "Canal 24 horas."
-			},
-			"answer": "c"
+			"question": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacionales e internacionales continuamente?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Teledeporte.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "La 1.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Canal 24 horas.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5059",
-			"questionText": "¿Cómo se llama el informativo de la televisión pública Televisión Española que se ofrece en directo a las 15:00 y a las 21:00 horas?",
-			"options": {
-				"a": "Noticiario.",
-				"b": "Telenoticias.",
-				"c": "Telediario."
-			},
-			"answer": "c"
+			"question": "¿Cómo se llama el informativo de la televisión pública Televisión Española que se ofrece en directo alas 15:00 y a las 21:00 horas?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Noticiario.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Telenoticias.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Telediario.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5060",
-			"questionText": "Al comprar un producto nuevo, ¿cuánto tiempo dura la garantía normalmente?",
-			"options": {
-				"a": "1 año.",
-				"b": "2 años.",
-				"c": "3 años."
-			},
-			"answer": "b"
+			"question": "Al comprar un producto nuevo, ¿cuánto tiempo dura la garantía normalmente?",
+			"options": [
+				{
+					"id": "a",
+					"option": "1 año.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "2 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "3 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5061",
-			"questionText": "¿Cuál de las tres opciones no es correcta?",
-			"options": {
-				"a": "Un litro de leche.",
-				"b": "Un kilo de patatas.",
-				"c": "Una docena de pan."
-			},
-			"answer": "c"
+			"question": "¿Cuál de las tres opciones no es correcta?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Un litro de leche.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Un kilo de patatas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Una docena de pan.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5062",
-			"questionText": "Si compramos 250 gramos de queso, estamos comprando... de queso.",
-			"options": {
-				"a": "1/2 kilo",
-				"b": "1/4 de kilo",
-				"c": "1/3 kilo."
-			},
-			"answer": "b"
+			"question": "Si compramos 250 gramos de queso, estamos comprando... de queso.",
+			"options": [
+				{
+					"id": "a",
+					"option": "1/2 kilo",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "1/4 de kilo",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "1/3 kilo.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5063",
-			"questionText": "Si compramos una botella de agua de 750 ml, estamos comprando una botella de...",
-			"options": {
-				"a": "3/4 de litro.",
-				"b": "1/2 litro.",
-				"c": "1 litro."
-			},
-			"answer": "a"
+			"question": "Si compramos una botella de agua de 750 ml, estamos comprando una botella de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "3/4 de litro.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "1/2 litro.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "1 litro.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5064",
-			"questionText": "¿Cómo se llama el establecimiento donde se pueden comprar medicinas con precios regulados, con un horario establecido mínimo y servicios de guardia?",
-			"options": {
-				"a": "Hospital.",
-				"b": "Centro de salud.",
-				"c": "Farmacia."
-			},
-			"answer": "c"
+			"question": "¿Cómo se llama el establecimiento donde se pueden comprar medicinas con precios regulados, con un horario establecido mínimo y servicios de guardia?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Hospital.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Centro de salud.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Farmacia.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5065",
-			"questionText": "¿Cuál de estas tres recomendaciones podemos encontrar en un parque?",
-			"options": {
-				"a": "Respete las plantas y el mobiliario urbano.",
-				"b": "Es conveniente abonar el billete con el importe exacto.",
-				"c": "Mantenga la distancia de seguridad con el vehículo precedente."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estas tres recomendaciones podemos encontrar en un parque?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Respete las plantas y el mobiliario urbano.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Es conveniente abonar el billete con el importe exacto.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Mantenga la distancia de seguridad con el vehículo precedente.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5066",
-			"questionText": "Uno de los principales puertos de España en transporte de viajeros es...",
-			"options": {
-				"a": "Gran Canaria.",
-				"b": "Alicante.",
-				"c": "Algeciras."
-			},
-			"answer": "c"
+			"question": "Uno de los principales puertos de España en transporte de viajeros es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Gran Canaria.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Alicante.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Algeciras.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5067",
-			"questionText": "El aeropuerto Adolfo Suárez está en...",
-			"options": {
-				"a": "Barcelona.",
-				"b": "Madrid.",
-				"c": "Bilbao."
-			},
-			"answer": "b"
+			"question": "El aeropuerto Adolfo Suárez está en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Barcelona.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Madrid.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Bilbao.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5068",
-			"questionText": "En un coche es obligatorio el uso del cinturón de seguridad...",
-			"options": {
-				"a": "solo en el asiento del conductor.",
-				"b": "en los asientos delanteros.",
-				"c": "en todos los asientos."
-			},
-			"answer": "c"
+			"question": "En un coche es obligatorio el uso del cinturón de seguridad...",
+			"options": [
+				{
+					"id": "a",
+					"option": "solo en el asiento del conductor.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "en los asientos delanteros.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "en todos los asientos.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5069",
-			"questionText": "El límite de velocidad para los coches dentro de las ciudades es de...",
-			"options": {
-				"a": "40 km/h.",
-				"b": "50 km/h.",
-				"c": "60 km/h."
-			},
-			"answer": "b"
+			"question": "El límite de velocidad para los coches dentro de las ciudades es de...",
+			"options": [
+				{
+					"id": "a",
+					"option": "40 km/h.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "50 km/h.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "60 km/h.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5070",
-			"questionText": "La estación de trenes de Atocha está en...",
-			"options": {
-				"a": "Barcelona.",
-				"b": "Madrid.",
-				"c": "Bilbao."
-			},
-			"answer": "b"
+			"question": "La estación de trenes de Atocha está en...",
+			"options": [
+				{
+					"id": "a",
+					"option": "Barcelona.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Madrid.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Bilbao.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5071",
-			"questionText": "Los taxis en España...",
-			"options": {
-				"a": "son todos de color rojo.",
-				"b": "se pueden compartir entre varios clientes.",
-				"c": "llevan una luz verde cuando están libres."
-			},
-			"answer": "c"
+			"question": "Los taxis en España...",
+			"options": [
+				{
+					"id": "a",
+					"option": "son todos de color rojo.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "se pueden compartir entre varios clientes.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "llevan una luz verde cuando están libres.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5072",
-			"questionText": "El acrónimo RENFE corresponde a:",
-			"options": {
-				"a": "Red Nacional de Fondos Europeos.",
-				"b": "Red Nacional de los Ferrocarriles Españoles.",
-				"c": "Red Nacional de Fundaciones Estatales."
-			},
-			"answer": "b"
+			"question": "El acrónimo RENFE corresponde a:",
+			"options": [
+				{
+					"id": "a",
+					"option": "Red Nacional de Fondos Europeos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Red Nacional de los Ferrocarriles Españoles.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Red Nacional de Fundaciones Estatales.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5073",
-			"questionText": "¿A qué usuarios de transporte se refiere este aviso: «El Abono Normal finalizará su validez al cumplir el cliente los 65 años. A partir de esta fecha podrá cargar el Abono Tercera Edad»?",
-			"options": {
-				"a": "A parados.",
-				"b": "A jubilados.",
-				"c": "A niños."
-			},
-			"answer": "b"
+			"question": "¿A qué usuarios de transporte se refiere este aviso: «El Abono Normal finalizará su validez al cumplir el cliente los 65 años. A partir de esta fecha podrá cargar el Abono Tercera Edad»?",
+			"options": [
+				{
+					"id": "a",
+					"option": "A parados.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "A jubilados.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "A niños.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5074",
-			"questionText": "¿Cuál es la edad mínima para trabajar en España?",
-			"options": {
-				"a": "16 años.",
-				"b": "18 años.",
-				"c": "21 años."
-			},
-			"answer": "a"
+			"question": "¿Cuál es la edad mínima para trabajar en España?",
+			"options": [
+				{
+					"id": "a",
+					"option": "16 años.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "18 años.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "21 años.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5075",
-			"questionText": "¿Cuál es el sector de mayor peso en la economía española?",
-			"options": {
-				"a": "Agricultura.",
-				"b": "Servicios.",
-				"c": "Construcción."
-			},
-			"answer": "b"
+			"question": "¿Cuál es el sector de mayor peso en la economía española?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Agricultura.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Servicios.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "Construcción.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5076",
-			"questionText": "¿Cuál de estos productos exporta España a otros países en grandes cantidades?",
-			"options": {
-				"a": "Frutas y legumbres.",
-				"b": "Café.",
-				"c": "Gas natural."
-			},
-			"answer": "a"
+			"question": "¿Cuál de estos productos exporta España a otros países en grandes cantidades?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Frutas y legumbres.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Café.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Gas natural.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5077",
-			"questionText": "La norma principal que regula los derechos de los trabajadores en España es...",
-			"options": {
-				"a": "la Constitución.",
-				"b": "el Estatuto de los Trabajadores.",
-				"c": "el Servicio Público de Empleo Estatal."
-			},
-			"answer": "b"
+			"question": "La norma principal que regula los derechos de los trabajadores en España es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "la Constitución.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "el Estatuto de los Trabajadores.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "el Servicio Público de Empleo Estatal.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5078",
-			"questionText": "Un acuerdo firmado entre la empresa y los representantes de los trabajadores (sindicatos) es...",
-			"options": {
-				"a": "un convenio colectivo.",
-				"b": "un código laboral.",
-				"c": "un finiquito."
-			},
-			"answer": "a"
+			"question": "Un acuerdo firmado entre la empresa y los representantes de los trabajadores (sindicatos) es...",
+			"options": [
+				{
+					"id": "a",
+					"option": "un convenio colectivo.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "un código laboral.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "un finiquito.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5079",
-			"questionText": "¿Quién tiene derecho a afiliarse a un sindicato?",
-			"options": {
-				"a": "Los trabajadores autónomos.",
-				"b": "Los funcionarios.",
-				"c": "Todos los trabajadores."
-			},
-			"answer": "c"
+			"question": "¿Quién tiene derecho a afiliarse a un sindicato?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Los trabajadores autónomos.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Los funcionarios.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Todos los trabajadores.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5080",
-			"questionText": "¿Qué es un Parador de Turismo?",
-			"options": {
-				"a": "Un albergue situado en el Camino de Santiago.",
-				"b": "Un circuito turístico con varias paradas.",
-				"c": "Un hotel con ubicación de interés histórico o cultural."
-			},
-			"answer": "c"
+			"question": "¿Qué es un Parador de Turismo?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Un albergue situado en el Camino de Santiago.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "Un circuito turístico con varias paradas.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Un hotel con ubicación de interés histórico o cultural.",
+					"isCorrect": true
+				}
+			]
 		},
 		{
 			"id": "5081",
-			"questionText": "La jornada laboral que tiene una interrupción para comer se llama...",
-			"options": {
-				"a": "jornada continua.",
-				"b": "jornada partida.",
-				"c": "jornada ordinaria."
-			},
-			"answer": "b"
+			"question": "La jornada laboral que tiene una interrupción para comer se llama...",
+			"options": [
+				{
+					"id": "a",
+					"option": "jornada continua.",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "jornada partida.",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "jornada ordinaria.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5082",
-			"questionText": "¿Cómo se llama el documento oficial que recoge las fechas de todos los contratos de trabajo de una persona?",
-			"options": {
-				"a": "Informe de Vida Laboral.",
-				"b": "Recibo de finiquito.",
-				"c": "Certificado de profesionalidad."
-			},
-			"answer": "a"
+			"question": "¿Cómo se llama el documento oficial que recoge las fechas de todos los contratos de trabajo de una persona?",
+			"options": [
+				{
+					"id": "a",
+					"option": "Informe de Vida Laboral.",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "Recibo de finiquito.",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "Certificado de profesionalidad.",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5083",
-			"questionText": "¿Qué impuesto pagan los residentes en España en función de la renta o el dinero ganado (salario, ingresos como autónomo, etc.)?",
-			"options": {
-				"a": "IRPF (Impuesto sobre la Renta de las Personas Físicas).",
-				"b": "IVA (Impuesto sobre el Valor Añadido).",
-				"c": "IS (Impuesto sobre Sociedades)."
-			},
-			"answer": "a"
+			"question": "¿Qué impuesto pagan los residentes en España en función de la renta o el dinero ganado (salario, ingresos como autónomo, etc.)?",
+			"options": [
+				{
+					"id": "a",
+					"option": "IRPF (Impuesto sobre la Renta de las Personas Físicas).",
+					"isCorrect": true
+				},
+				{
+					"id": "b",
+					"option": "IVA (Impuesto sobre el Valor Añadido).",
+					"isCorrect": false
+				},
+				{
+					"id": "c",
+					"option": "IS (Impuesto sobre Sociedades).",
+					"isCorrect": false
+				}
+			]
 		},
 		{
 			"id": "5084",
-			"questionText": "¿Cuál es el impuesto que pagan al Estado todos los consumidores al comprar productos y bienes o contratar servicios?",
-			"options": {
-				"a": "IRPF (Impuesto sobre la Renta de las Personas Físicas).",
-				"b": "IVA (Impuesto sobre el Valor Añadido).",
-				"c": "IS (Impuesto sobre Sociedades)."
-			},
-			"answer": "b"
+			"question": "¿Cuál es el impuesto que pagan al Estado todos los consumidores al comprar productos y bienes o contratar servicios?",
+			"options": [
+				{
+					"id": "a",
+					"option": "IRPF (Impuesto sobre la Renta de las Personas Físicas).",
+					"isCorrect": false
+				},
+				{
+					"id": "b",
+					"option": "IVA (Impuesto sobre el Valor Añadido).",
+					"isCorrect": true
+				},
+				{
+					"id": "c",
+					"option": "IS (Impuesto sobre Sociedades).",
+					"isCorrect": false
+				}
+			]
 		}
 	]
 }

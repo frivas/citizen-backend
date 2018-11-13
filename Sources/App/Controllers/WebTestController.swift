@@ -3,9 +3,7 @@ import Leaf
 
 struct WebTestController: RouteCollection {
 	
-	var questions: [QuestionBank.Question] {
-		return generateTest()
-	}
+	var questions = QuestionHandler()
 	
 	func boot(router: Router) throws {
 		let webRoutes = router.grouped("web")
@@ -15,7 +13,8 @@ struct WebTestController: RouteCollection {
 	}
 	
 	func getTest(_ req: Request) throws -> Future<View> {
-		let context = QuestionsContext(questions: self.questions)
+		let testQuestions = questions.generateTest()
+		let context = QuestionsContext(questions: testQuestions)
 		return try req.view().render("ccsecitizenshiptest", context)
 	}
 	
@@ -26,21 +25,20 @@ struct WebTestController: RouteCollection {
 	func checkTest(_ req: Request) throws -> Future<View> {
 		var answers = [String]()
 		
-		for question in self.questions {
-			let option: Int = (try? req.content.syncGet(at: "option\(question.id)")) ?? 0
-			print(option)
+		for question in questions.questionBank {
+			let selectedAnswer: String = (try? req.content.syncGet(at: "option\(question.id)")) ?? ""
 			
-			if option == 1 {
+			if selectedAnswer == "a" {
 				answers.append("\(question.id)_a")
-			} else if option == 2 {
+			} else if selectedAnswer == "b" {
 				answers.append("\(question.id)_b")
-			} else if option == 3 {
+			} else if selectedAnswer == "c" {
 				answers.append("\(question.id)_c")
 			} else {
 				answers.append("\(question.id)_NA")
 			}
 		}
-		let score = getScore(answers: answers, questions: self.questions)
+		let score = self.questions.getScore(answers: answers, questions: self.questions.questionBank)
 		let context = ["results": score]
 		return try req.view().render("results", context)
 	}

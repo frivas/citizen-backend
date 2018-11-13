@@ -4,6 +4,7 @@ import Foundation
 import Leaf
 
 public func routes(_ router: Router) throws {
+	
 	let testController = TestController()
 	try router.register(collection: testController)
 	
